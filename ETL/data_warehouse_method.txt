@@ -1,0 +1,10 @@
+This data model utilizes the "Data Vault" methodology. 
+I like this methodology because it requires the most upfront work, but later on if data-needs change it is very easy to manipulate versus other data models. 
+More here: https://www.databricks.com/glossary/data-vault
+
+1. Gather data and get it into postgres.
+2. Cleanse/standardize/load into Data Vault warehouse.
+    2a. Hubs - Business Keys
+        Satellites -- Descriptions
+        Links - Relationships between hubs
+3. Load db into BI software.

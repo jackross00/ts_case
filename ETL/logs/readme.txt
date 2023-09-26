@@ -1,0 +1,1 @@
+Probably overkill. I put in the option for using the logger but wont for this excercise.

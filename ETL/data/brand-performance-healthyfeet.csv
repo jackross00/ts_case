@@ -1,0 +1,2431 @@
+﻿date,website,brand,impressions,clicks,conversions,revenue
+1/1/23,healthyfeet.com,Hoka,4180,452,41,"$2,870"
+1/1/23,healthyfeet.com,Brooks,3103,282,34,$782
+1/1/23,healthyfeet.com,On Cloud,2988,276,26,"$1,430"
+1/1/23,healthyfeet.com,Nike,2721,210,21,$882
+1/1/23,healthyfeet.com,Saucony,2641,193,21,"$1,050"
+1/1/23,healthyfeet.com,Reebok,2157,135,9,$243
+1/1/23,healthyfeet.com,Adidas,1991,142,11,$407
+1/1/23,healthyfeet.com,New Balance,1716,98,8,$240
+1/1/23,healthyfeet.com,Altra,1492,89,8,$224
+1/1/23,healthyfeet.com,Asics,1464,79,6,$138
+1/2/23,healthyfeet.com,Hoka,4670,527,28,"$1,568"
+1/2/23,healthyfeet.com,On Cloud,3683,291,32,"$1,760"
+1/2/23,healthyfeet.com,Saucony,3159,201,21,"$1,029"
+1/2/23,healthyfeet.com,Brooks,3155,350,38,"$1,520"
+1/2/23,healthyfeet.com,Nike,2545,143,16,$496
+1/2/23,healthyfeet.com,Reebok,2206,98,7,$343
+1/2/23,healthyfeet.com,New Balance,1846,143,10,$300
+1/2/23,healthyfeet.com,Adidas,1773,108,8,$136
+1/2/23,healthyfeet.com,Altra,1480,60,6,$162
+1/2/23,healthyfeet.com,Asics,1230,56,4,$76
+1/3/23,healthyfeet.com,On Cloud,3604,268,23,"$1,265"
+1/3/23,healthyfeet.com,Hoka,3604,328,22,"$1,056"
+1/3/23,healthyfeet.com,Brooks,3450,320,35,"$1,015"
+1/3/23,healthyfeet.com,Saucony,2800,212,24,"$1,104"
+1/3/23,healthyfeet.com,Nike,2105,160,17,$510
+1/3/23,healthyfeet.com,Reebok,2017,88,6,$162
+1/3/23,healthyfeet.com,Adidas,1881,100,7,$168
+1/3/23,healthyfeet.com,New Balance,1713,89,6,$180
+1/3/23,healthyfeet.com,Altra,1416,70,6,$198
+1/3/23,healthyfeet.com,Asics,1307,59,5,$135
+1/4/23,healthyfeet.com,Hoka,3839,397,28,"$1,848"
+1/4/23,healthyfeet.com,Brooks,3506,381,45,$900
+1/4/23,healthyfeet.com,On Cloud,3423,270,30,"$1,650"
+1/4/23,healthyfeet.com,Saucony,2693,247,23,"$1,081"
+1/4/23,healthyfeet.com,Nike,2458,182,18,$918
+1/4/23,healthyfeet.com,Reebok,2447,160,11,$539
+1/4/23,healthyfeet.com,Adidas,1834,143,13,$351
+1/4/23,healthyfeet.com,New Balance,1583,94,6,$180
+1/4/23,healthyfeet.com,Altra,1442,102,8,$256
+1/4/23,healthyfeet.com,Asics,1364,57,4,$140
+1/5/23,healthyfeet.com,Hoka,3634,401,28,"$1,876"
+1/5/23,healthyfeet.com,Brooks,3281,267,28,$812
+1/5/23,healthyfeet.com,Saucony,2936,260,26,"$1,092"
+1/5/23,healthyfeet.com,On Cloud,2918,272,25,"$1,375"
+1/5/23,healthyfeet.com,Nike,2445,188,21,"$1,113"
+1/5/23,healthyfeet.com,Reebok,2120,91,5,$240
+1/5/23,healthyfeet.com,Adidas,1964,152,13,$442
+1/5/23,healthyfeet.com,New Balance,1775,134,11,$330
+1/5/23,healthyfeet.com,Asics,1499,62,5,$100
+1/5/23,healthyfeet.com,Altra,1420,90,7,$217
+1/6/23,healthyfeet.com,Hoka,4598,372,26,"$1,794"
+1/6/23,healthyfeet.com,Saucony,2844,197,21,"$1,050"
+1/6/23,healthyfeet.com,On Cloud,2726,297,22,"$1,210"
+1/6/23,healthyfeet.com,Brooks,2723,235,23,$552
+1/6/23,healthyfeet.com,Nike,2406,188,18,$720
+1/6/23,healthyfeet.com,Reebok,2227,98,6,$198
+1/6/23,healthyfeet.com,Adidas,1833,128,9,$387
+1/6/23,healthyfeet.com,New Balance,1659,101,8,$240
+1/6/23,healthyfeet.com,Asics,1409,61,5,$165
+1/6/23,healthyfeet.com,Altra,1305,83,7,$161
+1/7/23,healthyfeet.com,Hoka,3803,439,29,"$1,682"
+1/7/23,healthyfeet.com,Brooks,3584,335,38,"$1,102"
+1/7/23,healthyfeet.com,On Cloud,3241,280,22,"$1,210"
+1/7/23,healthyfeet.com,Saucony,3072,252,26,"$1,040"
+1/7/23,healthyfeet.com,Nike,2447,193,18,$774
+1/7/23,healthyfeet.com,Reebok,2442,106,6,$216
+1/7/23,healthyfeet.com,New Balance,1976,120,7,$210
+1/7/23,healthyfeet.com,Adidas,1887,117,8,$216
+1/7/23,healthyfeet.com,Altra,1460,79,7,$196
+1/7/23,healthyfeet.com,Asics,1203,50,3,$84
+1/8/23,healthyfeet.com,Hoka,4668,497,25,"$1,175"
+1/8/23,healthyfeet.com,Saucony,2986,239,25,"$1,250"
+1/8/23,healthyfeet.com,On Cloud,2963,216,17,$935
+1/8/23,healthyfeet.com,Brooks,2921,256,30,$840
+1/8/23,healthyfeet.com,Reebok,2395,157,12,$312
+1/8/23,healthyfeet.com,Nike,2356,121,12,$420
+1/8/23,healthyfeet.com,New Balance,1655,126,9,$270
+1/8/23,healthyfeet.com,Adidas,1630,93,7,$294
+1/8/23,healthyfeet.com,Altra,1489,99,9,$279
+1/8/23,healthyfeet.com,Asics,1390,96,7,$217
+1/9/23,healthyfeet.com,Hoka,4154,485,34,"$2,278"
+1/9/23,healthyfeet.com,On Cloud,3680,351,33,"$1,815"
+1/9/23,healthyfeet.com,Saucony,3088,288,27,"$1,296"
+1/9/23,healthyfeet.com,Brooks,2835,265,30,$900
+1/9/23,healthyfeet.com,Reebok,2433,98,7,$315
+1/9/23,healthyfeet.com,Nike,2407,169,19,$741
+1/9/23,healthyfeet.com,Adidas,1660,99,7,$126
+1/9/23,healthyfeet.com,New Balance,1643,145,9,$270
+1/9/23,healthyfeet.com,Asics,1532,104,7,$112
+1/9/23,healthyfeet.com,Altra,1342,85,7,$224
+1/10/23,healthyfeet.com,Hoka,4554,376,29,"$1,363"
+1/10/23,healthyfeet.com,Brooks,3152,314,37,$962
+1/10/23,healthyfeet.com,Saucony,2945,197,19,$836
+1/10/23,healthyfeet.com,On Cloud,2868,224,22,"$1,210"
+1/10/23,healthyfeet.com,Nike,2834,195,20,"$1,080"
+1/10/23,healthyfeet.com,Reebok,2455,135,10,$410
+1/10/23,healthyfeet.com,New Balance,1917,142,10,$300
+1/10/23,healthyfeet.com,Adidas,1903,137,11,$275
+1/10/23,healthyfeet.com,Altra,1385,91,8,$224
+1/10/23,healthyfeet.com,Asics,1260,80,7,$224
+1/11/23,healthyfeet.com,Hoka,4790,512,31,"$1,705"
+1/11/23,healthyfeet.com,Brooks,3170,278,26,"$1,014"
+1/11/23,healthyfeet.com,Saucony,2959,242,27,"$1,350"
+1/11/23,healthyfeet.com,On Cloud,2604,249,28,"$1,540"
+1/11/23,healthyfeet.com,Nike,2444,182,18,$774
+1/11/23,healthyfeet.com,Reebok,2192,143,8,$344
+1/11/23,healthyfeet.com,Adidas,1823,103,7,$168
+1/11/23,healthyfeet.com,New Balance,1598,105,6,$180
+1/11/23,healthyfeet.com,Altra,1497,86,7,$140
+1/11/23,healthyfeet.com,Asics,1402,77,6,$174
+1/12/23,healthyfeet.com,Hoka,4033,431,35,"$1,890"
+1/12/23,healthyfeet.com,Brooks,3662,415,41,"$1,435"
+1/12/23,healthyfeet.com,On Cloud,3440,245,25,"$1,375"
+1/12/23,healthyfeet.com,Saucony,2691,150,17,$782
+1/12/23,healthyfeet.com,Reebok,2387,139,9,$423
+1/12/23,healthyfeet.com,Nike,2304,135,14,$588
+1/12/23,healthyfeet.com,New Balance,1785,97,7,$210
+1/12/23,healthyfeet.com,Adidas,1752,121,11,$330
+1/12/23,healthyfeet.com,Asics,1340,56,5,$110
+1/12/23,healthyfeet.com,Altra,1251,83,7,$203
+1/13/23,healthyfeet.com,Hoka,3989,427,25,"$1,250"
+1/13/23,healthyfeet.com,Brooks,3561,288,34,"$1,258"
+1/13/23,healthyfeet.com,On Cloud,3557,310,33,"$1,815"
+1/13/23,healthyfeet.com,Saucony,2839,232,24,"$1,032"
+1/13/23,healthyfeet.com,Reebok,2035,116,10,$500
+1/13/23,healthyfeet.com,Adidas,1963,114,10,$270
+1/13/23,healthyfeet.com,Nike,1961,107,12,$408
+1/13/23,healthyfeet.com,New Balance,1840,99,6,$180
+1/13/23,healthyfeet.com,Asics,1503,76,5,$165
+1/13/23,healthyfeet.com,Altra,1414,101,8,$176
+1/14/23,healthyfeet.com,Hoka,3836,446,25,"$1,600"
+1/14/23,healthyfeet.com,On Cloud,3577,419,36,"$1,980"
+1/14/23,healthyfeet.com,Brooks,3385,303,32,$992
+1/14/23,healthyfeet.com,Saucony,3224,245,25,"$1,100"
+1/14/23,healthyfeet.com,Nike,2667,140,15,$720
+1/14/23,healthyfeet.com,Reebok,2432,167,13,$598
+1/14/23,healthyfeet.com,New Balance,1912,166,13,$390
+1/14/23,healthyfeet.com,Adidas,1819,111,10,$280
+1/14/23,healthyfeet.com,Asics,1324,66,4,$104
+1/14/23,healthyfeet.com,Altra,1261,72,6,$138
+1/15/23,healthyfeet.com,Hoka,3601,298,23,"$1,403"
+1/15/23,healthyfeet.com,Nike,2861,183,19,$646
+1/15/23,healthyfeet.com,Saucony,2822,150,16,$800
+1/15/23,healthyfeet.com,Brooks,2655,316,36,"$1,368"
+1/15/23,healthyfeet.com,On Cloud,2642,278,28,"$1,540"
+1/15/23,healthyfeet.com,Reebok,2465,116,10,$390
+1/15/23,healthyfeet.com,New Balance,1756,94,6,$180
+1/15/23,healthyfeet.com,Adidas,1539,79,7,$217
+1/15/23,healthyfeet.com,Altra,1327,89,8,$216
+1/15/23,healthyfeet.com,Asics,1319,82,7,$238
+1/16/23,healthyfeet.com,Hoka,4299,459,26,"$1,560"
+1/16/23,healthyfeet.com,On Cloud,3063,217,16,$880
+1/16/23,healthyfeet.com,Nike,2827,159,16,$800
+1/16/23,healthyfeet.com,Saucony,2737,173,18,$828
+1/16/23,healthyfeet.com,Brooks,2649,248,29,$870
+1/16/23,healthyfeet.com,Reebok,2475,163,9,$315
+1/16/23,healthyfeet.com,New Balance,1860,119,10,$300
+1/16/23,healthyfeet.com,Adidas,1738,135,11,$187
+1/16/23,healthyfeet.com,Altra,1443,74,6,$150
+1/16/23,healthyfeet.com,Asics,1242,76,5,$135
+1/17/23,healthyfeet.com,Hoka,4559,506,26,"$1,794"
+1/17/23,healthyfeet.com,On Cloud,3859,421,39,"$2,145"
+1/17/23,healthyfeet.com,Saucony,3264,269,30,"$1,440"
+1/17/23,healthyfeet.com,Brooks,2872,241,27,$783
+1/17/23,healthyfeet.com,Reebok,2397,167,9,$441
+1/17/23,healthyfeet.com,Nike,2022,163,17,$612
+1/17/23,healthyfeet.com,New Balance,1914,164,11,$330
+1/17/23,healthyfeet.com,Adidas,1865,129,11,$187
+1/17/23,healthyfeet.com,Asics,1473,95,7,$147
+1/17/23,healthyfeet.com,Altra,1329,97,8,$264
+1/18/23,healthyfeet.com,Hoka,4381,410,35,"$2,170"
+1/18/23,healthyfeet.com,On Cloud,3833,455,47,"$2,585"
+1/18/23,healthyfeet.com,Saucony,2750,139,14,$616
+1/18/23,healthyfeet.com,Brooks,2675,272,28,$980
+1/18/23,healthyfeet.com,Nike,2450,133,15,$705
+1/18/23,healthyfeet.com,Reebok,2260,97,6,$198
+1/18/23,healthyfeet.com,New Balance,1732,146,12,$360
+1/18/23,healthyfeet.com,Adidas,1588,137,10,$390
+1/18/23,healthyfeet.com,Altra,1382,98,9,$207
+1/18/23,healthyfeet.com,Asics,1309,68,6,$144
+1/19/23,healthyfeet.com,Hoka,4766,394,35,"$2,590"
+1/19/23,healthyfeet.com,Brooks,3546,383,41,"$1,353"
+1/19/23,healthyfeet.com,Saucony,3323,324,31,"$1,550"
+1/19/23,healthyfeet.com,On Cloud,3307,241,22,"$1,210"
+1/19/23,healthyfeet.com,Nike,2804,245,24,"$1,272"
+1/19/23,healthyfeet.com,Reebok,2143,129,9,$441
+1/19/23,healthyfeet.com,Adidas,1870,161,15,$300
+1/19/23,healthyfeet.com,New Balance,1666,122,7,$210
+1/19/23,healthyfeet.com,Asics,1481,63,4,$108
+1/19/23,healthyfeet.com,Altra,1447,66,6,$168
+1/20/23,healthyfeet.com,Hoka,4306,407,35,"$2,450"
+1/20/23,healthyfeet.com,On Cloud,3869,280,30,"$1,650"
+1/20/23,healthyfeet.com,Brooks,3474,348,38,"$1,520"
+1/20/23,healthyfeet.com,Saucony,2988,185,18,$846
+1/20/23,healthyfeet.com,Nike,2912,244,27,"$1,026"
+1/20/23,healthyfeet.com,Reebok,2265,151,9,$243
+1/20/23,healthyfeet.com,New Balance,1881,154,11,$330
+1/20/23,healthyfeet.com,Adidas,1723,145,12,$240
+1/20/23,healthyfeet.com,Altra,1395,81,7,$238
+1/20/23,healthyfeet.com,Asics,1376,79,6,$138
+1/21/23,healthyfeet.com,Hoka,3839,396,29,"$1,450"
+1/21/23,healthyfeet.com,On Cloud,3740,295,31,"$1,705"
+1/21/23,healthyfeet.com,Saucony,2927,244,23,$989
+1/21/23,healthyfeet.com,Brooks,2819,318,37,$777
+1/21/23,healthyfeet.com,Reebok,2353,110,7,$294
+1/21/23,healthyfeet.com,Nike,2193,174,17,$714
+1/21/23,healthyfeet.com,Adidas,1862,154,13,$559
+1/21/23,healthyfeet.com,New Balance,1861,137,9,$270
+1/21/23,healthyfeet.com,Asics,1457,60,5,$115
+1/21/23,healthyfeet.com,Altra,1366,87,8,$264
+1/22/23,healthyfeet.com,Hoka,4099,393,29,"$1,943"
+1/22/23,healthyfeet.com,On Cloud,3542,255,19,"$1,045"
+1/22/23,healthyfeet.com,Saucony,3219,226,25,"$1,200"
+1/22/23,healthyfeet.com,Brooks,2895,308,36,"$1,080"
+1/22/23,healthyfeet.com,Nike,2842,184,17,$986
+1/22/23,healthyfeet.com,Reebok,2047,122,8,$392
+1/22/23,healthyfeet.com,New Balance,1822,115,9,$270
+1/22/23,healthyfeet.com,Adidas,1731,99,9,$351
+1/22/23,healthyfeet.com,Asics,1437,80,5,$85
+1/22/23,healthyfeet.com,Altra,1299,61,5,$135
+1/23/23,healthyfeet.com,Hoka,4255,366,20,$960
+1/23/23,healthyfeet.com,Brooks,3337,280,30,$870
+1/23/23,healthyfeet.com,On Cloud,2774,305,29,"$1,595"
+1/23/23,healthyfeet.com,Saucony,2731,166,17,$799
+1/23/23,healthyfeet.com,Nike,2522,205,20,$620
+1/23/23,healthyfeet.com,Reebok,2261,110,6,$252
+1/23/23,healthyfeet.com,New Balance,1918,102,7,$210
+1/23/23,healthyfeet.com,Adidas,1609,136,10,$240
+1/23/23,healthyfeet.com,Asics,1356,63,4,$88
+1/23/23,healthyfeet.com,Altra,1339,95,8,$272
+1/24/23,healthyfeet.com,Hoka,4049,335,28,"$1,960"
+1/24/23,healthyfeet.com,On Cloud,3858,377,31,"$1,705"
+1/24/23,healthyfeet.com,Saucony,3137,237,25,"$1,100"
+1/24/23,healthyfeet.com,Brooks,2924,332,32,$640
+1/24/23,healthyfeet.com,Reebok,2427,139,10,$400
+1/24/23,healthyfeet.com,Nike,2074,186,19,$931
+1/24/23,healthyfeet.com,Adidas,1700,135,13,$377
+1/24/23,healthyfeet.com,New Balance,1654,90,5,$150
+1/24/23,healthyfeet.com,Asics,1427,67,5,$100
+1/24/23,healthyfeet.com,Altra,1328,71,6,$120
+1/25/23,healthyfeet.com,Hoka,4635,431,29,"$1,711"
+1/25/23,healthyfeet.com,On Cloud,3393,265,27,"$1,485"
+1/25/23,healthyfeet.com,Brooks,3359,392,37,$777
+1/25/23,healthyfeet.com,Saucony,2856,240,25,"$1,050"
+1/25/23,healthyfeet.com,Reebok,2490,163,9,$270
+1/25/23,healthyfeet.com,Nike,2140,132,13,$416
+1/25/23,healthyfeet.com,New Balance,1937,125,8,$240
+1/25/23,healthyfeet.com,Adidas,1846,145,12,$396
+1/25/23,healthyfeet.com,Asics,1550,87,5,$160
+1/25/23,healthyfeet.com,Altra,1433,61,6,$198
+1/26/23,healthyfeet.com,Hoka,4611,371,22,"$1,562"
+1/26/23,healthyfeet.com,Brooks,2747,274,33,"$1,287"
+1/26/23,healthyfeet.com,On Cloud,2730,214,23,"$1,265"
+1/26/23,healthyfeet.com,Saucony,2729,270,25,"$1,125"
+1/26/23,healthyfeet.com,Nike,2334,135,13,$780
+1/26/23,healthyfeet.com,Reebok,2134,114,8,$224
+1/26/23,healthyfeet.com,New Balance,1788,158,12,$360
+1/26/23,healthyfeet.com,Adidas,1602,110,10,$190
+1/26/23,healthyfeet.com,Asics,1572,81,6,$210
+1/26/23,healthyfeet.com,Altra,1435,99,8,$248
+1/27/23,healthyfeet.com,Hoka,3740,333,24,"$1,392"
+1/27/23,healthyfeet.com,On Cloud,3476,345,27,"$1,485"
+1/27/23,healthyfeet.com,Brooks,3249,268,28,"$1,008"
+1/27/23,healthyfeet.com,Saucony,2969,254,27,"$1,080"
+1/27/23,healthyfeet.com,Reebok,2302,146,12,$420
+1/27/23,healthyfeet.com,Nike,1990,163,17,$850
+1/27/23,healthyfeet.com,New Balance,1701,124,9,$270
+1/27/23,healthyfeet.com,Adidas,1671,150,11,$341
+1/27/23,healthyfeet.com,Asics,1485,62,4,$120
+1/27/23,healthyfeet.com,Altra,1480,110,10,$250
+1/28/23,healthyfeet.com,Hoka,4403,423,30,"$2,070"
+1/28/23,healthyfeet.com,On Cloud,3500,400,35,"$1,925"
+1/28/23,healthyfeet.com,Brooks,3463,376,35,"$1,050"
+1/28/23,healthyfeet.com,Saucony,2989,292,30,"$1,260"
+1/28/23,healthyfeet.com,Reebok,2103,102,6,$246
+1/28/23,healthyfeet.com,Nike,2048,128,14,$616
+1/28/23,healthyfeet.com,Adidas,1976,150,13,$234
+1/28/23,healthyfeet.com,New Balance,1924,169,12,$360
+1/28/23,healthyfeet.com,Asics,1509,75,6,$198
+1/28/23,healthyfeet.com,Altra,1350,89,7,$224
+1/29/23,healthyfeet.com,Hoka,4330,449,24,"$1,584"
+1/29/23,healthyfeet.com,On Cloud,3856,458,36,"$1,980"
+1/29/23,healthyfeet.com,Brooks,3261,288,33,"$1,221"
+1/29/23,healthyfeet.com,Saucony,3042,261,24,$984
+1/29/23,healthyfeet.com,Nike,2267,144,15,$540
+1/29/23,healthyfeet.com,Reebok,2238,138,8,$336
+1/29/23,healthyfeet.com,New Balance,1865,105,6,$180
+1/29/23,healthyfeet.com,Adidas,1770,133,11,$253
+1/29/23,healthyfeet.com,Asics,1354,76,6,$126
+1/29/23,healthyfeet.com,Altra,1315,65,6,$132
+1/30/23,healthyfeet.com,Hoka,3737,326,18,"$1,242"
+1/30/23,healthyfeet.com,Saucony,3261,227,25,"$1,000"
+1/30/23,healthyfeet.com,On Cloud,3185,366,34,"$1,870"
+1/30/23,healthyfeet.com,Brooks,3009,275,26,$754
+1/30/23,healthyfeet.com,Nike,2830,168,19,$836
+1/30/23,healthyfeet.com,Reebok,2382,120,8,$352
+1/30/23,healthyfeet.com,Adidas,1740,133,10,$150
+1/30/23,healthyfeet.com,New Balance,1701,143,11,$330
+1/30/23,healthyfeet.com,Altra,1383,80,7,$210
+1/30/23,healthyfeet.com,Asics,1214,55,5,$155
+1/31/23,healthyfeet.com,Hoka,4843,507,32,"$2,304"
+1/31/23,healthyfeet.com,On Cloud,3880,439,46,"$2,530"
+1/31/23,healthyfeet.com,Brooks,3246,330,34,"$1,190"
+1/31/23,healthyfeet.com,Saucony,2789,250,24,"$1,104"
+1/31/23,healthyfeet.com,Reebok,2481,139,11,$286
+1/31/23,healthyfeet.com,Nike,2359,212,20,$860
+1/31/23,healthyfeet.com,New Balance,1867,153,9,$270
+1/31/23,healthyfeet.com,Adidas,1683,139,10,$230
+1/31/23,healthyfeet.com,Altra,1371,83,7,$217
+1/31/23,healthyfeet.com,Asics,1242,54,3,$102
+2/1/23,healthyfeet.com,Hoka,3993,380,31,"$1,984"
+2/1/23,healthyfeet.com,Brooks,3749,304,33,"$1,287"
+2/1/23,healthyfeet.com,Saucony,3313,232,26,"$1,118"
+2/1/23,healthyfeet.com,On Cloud,2664,192,18,$990
+2/1/23,healthyfeet.com,Nike,2124,179,18,$612
+2/1/23,healthyfeet.com,Reebok,2032,128,10,$320
+2/1/23,healthyfeet.com,New Balance,1793,142,9,$270
+2/1/23,healthyfeet.com,Adidas,1760,93,8,$248
+2/1/23,healthyfeet.com,Asics,1542,101,7,$217
+2/1/23,healthyfeet.com,Altra,1305,76,7,$196
+2/2/23,healthyfeet.com,Hoka,4293,443,38,"$2,812"
+2/2/23,healthyfeet.com,Brooks,3361,338,41,"$1,435"
+2/2/23,healthyfeet.com,On Cloud,2798,198,22,"$1,210"
+2/2/23,healthyfeet.com,Saucony,2781,234,25,"$1,150"
+2/2/23,healthyfeet.com,Reebok,2383,130,9,$360
+2/2/23,healthyfeet.com,Nike,2194,162,18,$756
+2/2/23,healthyfeet.com,Adidas,1883,100,9,$261
+2/2/23,healthyfeet.com,New Balance,1823,109,7,$210
+2/2/23,healthyfeet.com,Asics,1414,71,6,$186
+2/2/23,healthyfeet.com,Altra,1206,54,5,$130
+2/3/23,healthyfeet.com,Hoka,4060,351,26,"$1,170"
+2/3/23,healthyfeet.com,Brooks,3419,297,27,$675
+2/3/23,healthyfeet.com,On Cloud,3076,229,24,"$1,320"
+2/3/23,healthyfeet.com,Nike,2866,166,18,$918
+2/3/23,healthyfeet.com,Saucony,2769,239,25,"$1,200"
+2/3/23,healthyfeet.com,Reebok,2396,153,9,$360
+2/3/23,healthyfeet.com,New Balance,1870,124,8,$240
+2/3/23,healthyfeet.com,Adidas,1864,106,8,$152
+2/3/23,healthyfeet.com,Asics,1495,79,6,$96
+2/3/23,healthyfeet.com,Altra,1432,93,8,$272
+2/4/23,healthyfeet.com,Hoka,4717,543,42,"$2,814"
+2/4/23,healthyfeet.com,Saucony,3259,205,21,"$1,029"
+2/4/23,healthyfeet.com,Brooks,3254,317,38,$988
+2/4/23,healthyfeet.com,On Cloud,2999,241,25,"$1,375"
+2/4/23,healthyfeet.com,Nike,2872,207,21,$651
+2/4/23,healthyfeet.com,Reebok,2477,119,8,$224
+2/4/23,healthyfeet.com,New Balance,1865,129,10,$300
+2/4/23,healthyfeet.com,Adidas,1666,94,9,$405
+2/4/23,healthyfeet.com,Altra,1466,78,7,$140
+2/4/23,healthyfeet.com,Asics,1230,84,6,$168
+2/5/23,healthyfeet.com,Hoka,4263,460,37,"$1,776"
+2/5/23,healthyfeet.com,Brooks,3235,352,35,"$1,330"
+2/5/23,healthyfeet.com,Saucony,2828,235,22,$990
+2/5/23,healthyfeet.com,On Cloud,2743,200,16,$880
+2/5/23,healthyfeet.com,Nike,2614,207,20,"$1,040"
+2/5/23,healthyfeet.com,Reebok,2439,169,11,$374
+2/5/23,healthyfeet.com,New Balance,1890,153,9,$270
+2/5/23,healthyfeet.com,Adidas,1630,142,11,$407
+2/5/23,healthyfeet.com,Asics,1296,71,5,$135
+2/5/23,healthyfeet.com,Altra,1292,94,8,$160
+2/6/23,healthyfeet.com,Hoka,3878,398,36,"$1,692"
+2/6/23,healthyfeet.com,Brooks,3598,351,38,"$1,292"
+2/6/23,healthyfeet.com,On Cloud,3525,364,27,"$1,485"
+2/6/23,healthyfeet.com,Saucony,3202,205,22,$990
+2/6/23,healthyfeet.com,Reebok,2328,99,7,$329
+2/6/23,healthyfeet.com,Nike,2290,125,14,$602
+2/6/23,healthyfeet.com,New Balance,1905,116,7,$210
+2/6/23,healthyfeet.com,Adidas,1661,109,10,$220
+2/6/23,healthyfeet.com,Altra,1430,64,6,$156
+2/6/23,healthyfeet.com,Asics,1399,67,5,$170
+2/7/23,healthyfeet.com,Hoka,4075,416,33,"$2,310"
+2/7/23,healthyfeet.com,On Cloud,3738,395,29,"$1,595"
+2/7/23,healthyfeet.com,Brooks,2980,316,38,"$1,330"
+2/7/23,healthyfeet.com,Saucony,2888,180,20,$800
+2/7/23,healthyfeet.com,Nike,2813,242,25,$775
+2/7/23,healthyfeet.com,Reebok,2434,128,10,$370
+2/7/23,healthyfeet.com,Adidas,1600,104,7,$287
+2/7/23,healthyfeet.com,New Balance,1569,92,6,$180
+2/7/23,healthyfeet.com,Altra,1230,50,5,$160
+2/7/23,healthyfeet.com,Asics,1224,55,4,$96
+2/8/23,healthyfeet.com,Hoka,4003,461,30,"$1,950"
+2/8/23,healthyfeet.com,Brooks,3744,443,42,"$1,386"
+2/8/23,healthyfeet.com,On Cloud,3056,225,23,"$1,265"
+2/8/23,healthyfeet.com,Saucony,3029,166,18,$828
+2/8/23,healthyfeet.com,Nike,2805,181,19,$893
+2/8/23,healthyfeet.com,Reebok,2070,112,6,$222
+2/8/23,healthyfeet.com,New Balance,1862,152,11,$330
+2/8/23,healthyfeet.com,Adidas,1853,166,15,$420
+2/8/23,healthyfeet.com,Altra,1391,77,7,$231
+2/8/23,healthyfeet.com,Asics,1249,58,4,$84
+2/9/23,healthyfeet.com,Hoka,4182,397,35,"$1,785"
+2/9/23,healthyfeet.com,Saucony,2929,281,28,"$1,176"
+2/9/23,healthyfeet.com,Brooks,2869,263,25,$900
+2/9/23,healthyfeet.com,On Cloud,2832,274,21,"$1,155"
+2/9/23,healthyfeet.com,Nike,2812,167,18,$774
+2/9/23,healthyfeet.com,Reebok,2211,152,12,$360
+2/9/23,healthyfeet.com,New Balance,1647,126,8,$240
+2/9/23,healthyfeet.com,Adidas,1526,86,6,$120
+2/9/23,healthyfeet.com,Asics,1499,93,8,$200
+2/9/23,healthyfeet.com,Altra,1334,91,7,$245
+2/10/23,healthyfeet.com,Hoka,4984,547,47,"$2,397"
+2/10/23,healthyfeet.com,On Cloud,3735,273,20,"$1,100"
+2/10/23,healthyfeet.com,Brooks,3643,306,32,"$1,184"
+2/10/23,healthyfeet.com,Saucony,3440,208,21,$987
+2/10/23,healthyfeet.com,Reebok,2257,116,9,$297
+2/10/23,healthyfeet.com,Nike,2003,118,13,$715
+2/10/23,healthyfeet.com,Adidas,1637,138,9,$153
+2/10/23,healthyfeet.com,New Balance,1532,113,6,$180
+2/10/23,healthyfeet.com,Altra,1262,81,6,$126
+2/10/23,healthyfeet.com,Asics,1209,65,5,$105
+2/11/23,healthyfeet.com,Hoka,4210,450,31,"$1,953"
+2/11/23,healthyfeet.com,Saucony,3515,293,32,"$1,536"
+2/11/23,healthyfeet.com,Brooks,3357,306,36,"$1,404"
+2/11/23,healthyfeet.com,On Cloud,3159,316,33,"$1,815"
+2/11/23,healthyfeet.com,Nike,2249,173,18,$846
+2/11/23,healthyfeet.com,Reebok,2030,118,7,$280
+2/11/23,healthyfeet.com,New Balance,1877,131,10,$300
+2/11/23,healthyfeet.com,Adidas,1518,101,9,$153
+2/11/23,healthyfeet.com,Asics,1459,62,5,$115
+2/11/23,healthyfeet.com,Altra,1312,75,7,$140
+2/12/23,healthyfeet.com,Hoka,4240,464,39,"$1,872"
+2/12/23,healthyfeet.com,On Cloud,3985,438,47,"$2,585"
+2/12/23,healthyfeet.com,Brooks,3505,400,48,"$1,824"
+2/12/23,healthyfeet.com,Saucony,2899,191,18,$864
+2/12/23,healthyfeet.com,Nike,2874,251,23,$690
+2/12/23,healthyfeet.com,Reebok,2163,142,9,$405
+2/12/23,healthyfeet.com,New Balance,1882,100,8,$240
+2/12/23,healthyfeet.com,Adidas,1628,87,8,$152
+2/12/23,healthyfeet.com,Altra,1270,62,6,$156
+2/12/23,healthyfeet.com,Asics,1218,53,4,$116
+2/13/23,healthyfeet.com,Hoka,4820,564,29,"$1,885"
+2/13/23,healthyfeet.com,On Cloud,3698,362,37,"$2,035"
+2/13/23,healthyfeet.com,Brooks,3028,328,35,"$1,295"
+2/13/23,healthyfeet.com,Saucony,2864,244,27,"$1,080"
+2/13/23,healthyfeet.com,Nike,2056,148,14,$574
+2/13/23,healthyfeet.com,Reebok,2023,109,9,$279
+2/13/23,healthyfeet.com,Adidas,1757,102,7,$287
+2/13/23,healthyfeet.com,New Balance,1632,99,6,$180
+2/13/23,healthyfeet.com,Asics,1378,89,8,$120
+2/13/23,healthyfeet.com,Altra,1233,78,6,$210
+2/14/23,healthyfeet.com,Hoka,4553,410,31,"$1,550"
+2/14/23,healthyfeet.com,On Cloud,3326,311,30,"$1,650"
+2/14/23,healthyfeet.com,Brooks,3106,270,29,"$1,160"
+2/14/23,healthyfeet.com,Saucony,3042,168,18,$738
+2/14/23,healthyfeet.com,Reebok,2159,133,10,$360
+2/14/23,healthyfeet.com,Nike,2016,125,12,$456
+2/14/23,healthyfeet.com,New Balance,1990,126,10,$300
+2/14/23,healthyfeet.com,Adidas,1964,137,11,$473
+2/14/23,healthyfeet.com,Asics,1372,96,7,$224
+2/14/23,healthyfeet.com,Altra,1200,87,7,$224
+2/15/23,healthyfeet.com,Hoka,4210,393,23,"$1,564"
+2/15/23,healthyfeet.com,Saucony,3321,170,19,$779
+2/15/23,healthyfeet.com,On Cloud,3165,241,25,"$1,375"
+2/15/23,healthyfeet.com,Brooks,3062,261,26,$910
+2/15/23,healthyfeet.com,Nike,2169,172,18,$864
+2/15/23,healthyfeet.com,Reebok,2010,134,9,$342
+2/15/23,healthyfeet.com,New Balance,1989,178,11,$330
+2/15/23,healthyfeet.com,Adidas,1837,120,8,$160
+2/15/23,healthyfeet.com,Altra,1411,63,5,$145
+2/15/23,healthyfeet.com,Asics,1301,75,5,$105
+2/16/23,healthyfeet.com,Hoka,4778,395,31,"$2,139"
+2/16/23,healthyfeet.com,Saucony,3094,179,20,$920
+2/16/23,healthyfeet.com,Brooks,2924,268,27,"$1,080"
+2/16/23,healthyfeet.com,On Cloud,2836,301,26,"$1,430"
+2/16/23,healthyfeet.com,Nike,2526,212,24,"$1,008"
+2/16/23,healthyfeet.com,Reebok,2372,136,8,$312
+2/16/23,healthyfeet.com,New Balance,1903,120,9,$270
+2/16/23,healthyfeet.com,Adidas,1616,112,8,$280
+2/16/23,healthyfeet.com,Altra,1261,92,8,$216
+2/16/23,healthyfeet.com,Asics,1232,86,6,$192
+2/17/23,healthyfeet.com,Hoka,4145,473,39,"$2,106"
+2/17/23,healthyfeet.com,On Cloud,3234,371,37,"$2,035"
+2/17/23,healthyfeet.com,Saucony,2999,231,23,$943
+2/17/23,healthyfeet.com,Brooks,2939,309,32,"$1,184"
+2/17/23,healthyfeet.com,Nike,2636,185,18,$738
+2/17/23,healthyfeet.com,Reebok,2368,130,10,$360
+2/17/23,healthyfeet.com,Adidas,1854,141,12,$492
+2/17/23,healthyfeet.com,New Balance,1697,148,10,$300
+2/17/23,healthyfeet.com,Altra,1369,75,6,$156
+2/17/23,healthyfeet.com,Asics,1222,54,5,$160
+2/18/23,healthyfeet.com,Hoka,4248,427,24,"$1,368"
+2/18/23,healthyfeet.com,Brooks,3777,393,45,"$1,305"
+2/18/23,healthyfeet.com,On Cloud,3495,300,24,"$1,320"
+2/18/23,healthyfeet.com,Saucony,3233,183,20,$940
+2/18/23,healthyfeet.com,Nike,2836,158,16,$912
+2/18/23,healthyfeet.com,Reebok,2499,149,8,$400
+2/18/23,healthyfeet.com,New Balance,1587,135,8,$240
+2/18/23,healthyfeet.com,Asics,1578,99,8,$136
+2/18/23,healthyfeet.com,Adidas,1562,100,8,$344
+2/18/23,healthyfeet.com,Altra,1498,68,6,$210
+2/19/23,healthyfeet.com,Hoka,4958,491,42,"$2,100"
+2/19/23,healthyfeet.com,Brooks,3586,357,35,"$1,120"
+2/19/23,healthyfeet.com,Saucony,3153,240,26,"$1,066"
+2/19/23,healthyfeet.com,On Cloud,2704,250,26,"$1,430"
+2/19/23,healthyfeet.com,Reebok,2064,111,8,$320
+2/19/23,healthyfeet.com,Nike,2005,126,12,$516
+2/19/23,healthyfeet.com,Adidas,1923,141,9,$333
+2/19/23,healthyfeet.com,New Balance,1533,123,7,$210
+2/19/23,healthyfeet.com,Altra,1328,102,10,$260
+2/19/23,healthyfeet.com,Asics,1227,77,5,$160
+2/20/23,healthyfeet.com,Hoka,4475,455,24,"$1,464"
+2/20/23,healthyfeet.com,Brooks,3110,252,30,$690
+2/20/23,healthyfeet.com,On Cloud,3042,261,25,"$1,375"
+2/20/23,healthyfeet.com,Saucony,2767,250,24,"$1,056"
+2/20/23,healthyfeet.com,Nike,2411,213,22,$880
+2/20/23,healthyfeet.com,Reebok,2115,147,9,$441
+2/20/23,healthyfeet.com,Adidas,1932,166,13,$260
+2/20/23,healthyfeet.com,New Balance,1919,132,8,$240
+2/20/23,healthyfeet.com,Altra,1414,88,7,$196
+2/20/23,healthyfeet.com,Asics,1238,75,5,$140
+2/21/23,healthyfeet.com,Brooks,3838,310,31,"$1,023"
+2/21/23,healthyfeet.com,Hoka,3712,401,26,"$1,560"
+2/21/23,healthyfeet.com,Saucony,3418,236,26,"$1,092"
+2/21/23,healthyfeet.com,On Cloud,3234,266,28,"$1,540"
+2/21/23,healthyfeet.com,Nike,2684,232,26,$910
+2/21/23,healthyfeet.com,Reebok,2101,121,8,$224
+2/21/23,healthyfeet.com,New Balance,1925,135,8,$240
+2/21/23,healthyfeet.com,Adidas,1557,138,12,$492
+2/21/23,healthyfeet.com,Asics,1439,74,4,$92
+2/21/23,healthyfeet.com,Altra,1261,83,8,$264
+2/22/23,healthyfeet.com,Hoka,4517,417,35,"$1,925"
+2/22/23,healthyfeet.com,On Cloud,3449,330,30,"$1,650"
+2/22/23,healthyfeet.com,Saucony,3101,223,21,$987
+2/22/23,healthyfeet.com,Brooks,2906,322,38,$798
+2/22/23,healthyfeet.com,Reebok,2392,115,7,$315
+2/22/23,healthyfeet.com,Nike,2152,135,14,$462
+2/22/23,healthyfeet.com,Adidas,1764,152,12,$444
+2/22/23,healthyfeet.com,New Balance,1739,135,8,$240
+2/22/23,healthyfeet.com,Asics,1302,81,5,$145
+2/22/23,healthyfeet.com,Altra,1246,80,7,$238
+2/23/23,healthyfeet.com,Hoka,3682,306,19,$855
+2/23/23,healthyfeet.com,Brooks,3609,373,41,"$1,558"
+2/23/23,healthyfeet.com,On Cloud,3316,294,26,"$1,430"
+2/23/23,healthyfeet.com,Saucony,3016,300,29,"$1,160"
+2/23/23,healthyfeet.com,Reebok,2191,136,10,$320
+2/23/23,healthyfeet.com,Nike,2179,134,13,$767
+2/23/23,healthyfeet.com,Adidas,1932,133,10,$340
+2/23/23,healthyfeet.com,New Balance,1582,85,5,$150
+2/23/23,healthyfeet.com,Asics,1419,97,7,$119
+2/23/23,healthyfeet.com,Altra,1415,105,9,$180
+2/24/23,healthyfeet.com,On Cloud,4006,300,24,"$1,320"
+2/24/23,healthyfeet.com,Hoka,3795,323,17,"$1,020"
+2/24/23,healthyfeet.com,Brooks,3364,330,33,$726
+2/24/23,healthyfeet.com,Saucony,3229,266,25,"$1,100"
+2/24/23,healthyfeet.com,Nike,2242,129,14,$826
+2/24/23,healthyfeet.com,Reebok,2183,124,7,$224
+2/24/23,healthyfeet.com,Adidas,1938,148,12,$360
+2/24/23,healthyfeet.com,New Balance,1582,110,8,$240
+2/24/23,healthyfeet.com,Asics,1369,77,5,$145
+2/24/23,healthyfeet.com,Altra,1275,65,6,$126
+2/25/23,healthyfeet.com,Hoka,4721,453,34,"$2,380"
+2/25/23,healthyfeet.com,On Cloud,3377,364,37,"$2,035"
+2/25/23,healthyfeet.com,Brooks,3270,389,45,"$1,485"
+2/25/23,healthyfeet.com,Nike,2810,216,22,$924
+2/25/23,healthyfeet.com,Saucony,2768,233,26,"$1,118"
+2/25/23,healthyfeet.com,Reebok,2121,103,6,$150
+2/25/23,healthyfeet.com,New Balance,1847,138,10,$300
+2/25/23,healthyfeet.com,Adidas,1527,103,9,$207
+2/25/23,healthyfeet.com,Asics,1303,59,4,$136
+2/25/23,healthyfeet.com,Altra,1218,75,7,$196
+2/26/23,healthyfeet.com,Hoka,4594,487,43,"$3,096"
+2/26/23,healthyfeet.com,Saucony,3324,185,19,$874
+2/26/23,healthyfeet.com,Brooks,3236,371,41,"$1,066"
+2/26/23,healthyfeet.com,On Cloud,3172,257,26,"$1,430"
+2/26/23,healthyfeet.com,Nike,2786,241,23,"$1,196"
+2/26/23,healthyfeet.com,Reebok,2451,169,13,$494
+2/26/23,healthyfeet.com,Adidas,1958,132,12,$444
+2/26/23,healthyfeet.com,New Balance,1925,112,8,$240
+2/26/23,healthyfeet.com,Altra,1409,63,5,$100
+2/26/23,healthyfeet.com,Asics,1346,69,4,$76
+2/27/23,healthyfeet.com,Hoka,4499,533,37,"$2,775"
+2/27/23,healthyfeet.com,Saucony,3131,304,28,"$1,344"
+2/27/23,healthyfeet.com,Brooks,3068,352,37,$888
+2/27/23,healthyfeet.com,On Cloud,3011,357,34,"$1,870"
+2/27/23,healthyfeet.com,Reebok,2101,104,8,$288
+2/27/23,healthyfeet.com,Nike,1997,166,16,$864
+2/27/23,healthyfeet.com,Adidas,1947,145,11,$176
+2/27/23,healthyfeet.com,New Balance,1903,110,8,$240
+2/27/23,healthyfeet.com,Altra,1383,89,7,$175
+2/27/23,healthyfeet.com,Asics,1331,86,5,$105
+2/28/23,healthyfeet.com,Hoka,3675,343,25,"$1,225"
+2/28/23,healthyfeet.com,On Cloud,3121,364,38,"$2,090"
+2/28/23,healthyfeet.com,Brooks,2903,300,35,$910
+2/28/23,healthyfeet.com,Nike,2848,252,26,"$1,248"
+2/28/23,healthyfeet.com,Saucony,2773,188,21,$861
+2/28/23,healthyfeet.com,Reebok,2496,163,13,$455
+2/28/23,healthyfeet.com,New Balance,1751,156,11,$330
+2/28/23,healthyfeet.com,Adidas,1643,146,13,$559
+2/28/23,healthyfeet.com,Altra,1269,80,7,$217
+2/28/23,healthyfeet.com,Asics,1216,66,6,$204
+3/1/23,healthyfeet.com,Hoka,4861,452,40,"$1,960"
+3/1/23,healthyfeet.com,Saucony,3609,233,26,"$1,274"
+3/1/23,healthyfeet.com,On Cloud,3330,261,24,"$1,320"
+3/1/23,healthyfeet.com,Brooks,3153,265,32,$896
+3/1/23,healthyfeet.com,Nike,2157,188,19,$741
+3/1/23,healthyfeet.com,Reebok,2129,135,11,$473
+3/1/23,healthyfeet.com,Adidas,1934,104,9,$324
+3/1/23,healthyfeet.com,New Balance,1813,143,12,$360
+3/1/23,healthyfeet.com,Asics,1515,106,8,$120
+3/1/23,healthyfeet.com,Altra,1320,105,9,$216
+3/2/23,healthyfeet.com,Hoka,4470,463,34,"$1,972"
+3/2/23,healthyfeet.com,Brooks,3338,303,28,"$1,120"
+3/2/23,healthyfeet.com,Saucony,2939,184,19,$912
+3/2/23,healthyfeet.com,On Cloud,2796,290,30,"$1,650"
+3/2/23,healthyfeet.com,Nike,2778,221,22,$660
+3/2/23,healthyfeet.com,Reebok,2354,98,7,$259
+3/2/23,healthyfeet.com,New Balance,1665,136,9,$270
+3/2/23,healthyfeet.com,Adidas,1509,83,6,$216
+3/2/23,healthyfeet.com,Altra,1450,84,7,$203
+3/2/23,healthyfeet.com,Asics,1449,68,5,$95
+3/3/23,healthyfeet.com,Hoka,4529,474,41,"$2,214"
+3/3/23,healthyfeet.com,On Cloud,3186,356,26,"$1,430"
+3/3/23,healthyfeet.com,Saucony,3077,158,16,$736
+3/3/23,healthyfeet.com,Brooks,2972,345,41,$984
+3/3/23,healthyfeet.com,Reebok,2224,105,6,$252
+3/3/23,healthyfeet.com,Nike,2013,171,18,$882
+3/3/23,healthyfeet.com,New Balance,1944,153,13,$390
+3/3/23,healthyfeet.com,Adidas,1942,98,7,$287
+3/3/23,healthyfeet.com,Asics,1545,94,6,$96
+3/3/23,healthyfeet.com,Altra,1258,60,5,$140
+3/4/23,healthyfeet.com,Hoka,5056,597,34,"$2,482"
+3/4/23,healthyfeet.com,Saucony,3509,178,19,$836
+3/4/23,healthyfeet.com,On Cloud,3185,245,21,"$1,155"
+3/4/23,healthyfeet.com,Brooks,3160,286,27,$999
+3/4/23,healthyfeet.com,Nike,2531,175,17,$663
+3/4/23,healthyfeet.com,Reebok,2343,156,12,$348
+3/4/23,healthyfeet.com,New Balance,1916,170,10,$300
+3/4/23,healthyfeet.com,Adidas,1625,104,10,$260
+3/4/23,healthyfeet.com,Asics,1590,94,8,$168
+3/4/23,healthyfeet.com,Altra,1473,110,9,$234
+3/5/23,healthyfeet.com,Hoka,4994,468,32,"$2,240"
+3/5/23,healthyfeet.com,Brooks,3672,354,40,"$1,520"
+3/5/23,healthyfeet.com,Saucony,3573,273,30,"$1,410"
+3/5/23,healthyfeet.com,On Cloud,3057,313,33,"$1,815"
+3/5/23,healthyfeet.com,Nike,2340,183,17,$748
+3/5/23,healthyfeet.com,Reebok,2168,143,10,$460
+3/5/23,healthyfeet.com,New Balance,1805,99,7,$210
+3/5/23,healthyfeet.com,Adidas,1506,109,8,$248
+3/5/23,healthyfeet.com,Altra,1390,61,6,$126
+3/5/23,healthyfeet.com,Asics,1282,63,5,$100
+3/6/23,healthyfeet.com,Hoka,3752,439,32,"$1,856"
+3/6/23,healthyfeet.com,Brooks,3574,301,28,$560
+3/6/23,healthyfeet.com,Saucony,2997,176,17,$680
+3/6/23,healthyfeet.com,On Cloud,2770,318,31,"$1,705"
+3/6/23,healthyfeet.com,Nike,2430,145,15,$510
+3/6/23,healthyfeet.com,Reebok,2016,110,9,$351
+3/6/23,healthyfeet.com,New Balance,1613,145,10,$300
+3/6/23,healthyfeet.com,Adidas,1519,120,9,$342
+3/6/23,healthyfeet.com,Asics,1490,89,6,$150
+3/6/23,healthyfeet.com,Altra,1290,97,9,$261
+3/7/23,healthyfeet.com,Hoka,4716,500,43,"$3,096"
+3/7/23,healthyfeet.com,On Cloud,3818,400,42,"$2,310"
+3/7/23,healthyfeet.com,Brooks,3543,355,35,"$1,015"
+3/7/23,healthyfeet.com,Saucony,3497,300,31,"$1,271"
+3/7/23,healthyfeet.com,Nike,2704,217,20,$860
+3/7/23,healthyfeet.com,Reebok,2415,157,8,$288
+3/7/23,healthyfeet.com,New Balance,1643,90,6,$180
+3/7/23,healthyfeet.com,Adidas,1607,84,7,$238
+3/7/23,healthyfeet.com,Asics,1474,69,4,$72
+3/7/23,healthyfeet.com,Altra,1440,79,7,$175
+3/8/23,healthyfeet.com,Hoka,4296,450,32,"$1,632"
+3/8/23,healthyfeet.com,Brooks,4009,423,44,"$1,452"
+3/8/23,healthyfeet.com,On Cloud,3863,348,32,"$1,760"
+3/8/23,healthyfeet.com,Saucony,2954,212,22,$924
+3/8/23,healthyfeet.com,Nike,2720,186,19,$589
+3/8/23,healthyfeet.com,Reebok,2137,104,8,$200
+3/8/23,healthyfeet.com,New Balance,1689,143,11,$330
+3/8/23,healthyfeet.com,Adidas,1652,131,11,$418
+3/8/23,healthyfeet.com,Altra,1479,112,10,$290
+3/8/23,healthyfeet.com,Asics,1381,95,6,$192
+3/9/23,healthyfeet.com,Hoka,4749,440,35,"$2,415"
+3/9/23,healthyfeet.com,Brooks,3963,443,47,"$1,269"
+3/9/23,healthyfeet.com,On Cloud,3962,339,35,"$1,925"
+3/9/23,healthyfeet.com,Saucony,3153,233,26,"$1,300"
+3/9/23,healthyfeet.com,Nike,2724,221,23,"$1,058"
+3/9/23,healthyfeet.com,Reebok,2218,93,6,$186
+3/9/23,healthyfeet.com,Adidas,1993,167,11,$264
+3/9/23,healthyfeet.com,New Balance,1756,157,11,$330
+3/9/23,healthyfeet.com,Asics,1490,92,8,$224
+3/9/23,healthyfeet.com,Altra,1321,102,9,$198
+3/10/23,healthyfeet.com,On Cloud,3895,296,32,"$1,760"
+3/10/23,healthyfeet.com,Hoka,3849,408,35,"$2,065"
+3/10/23,healthyfeet.com,Brooks,3725,419,43,"$1,333"
+3/10/23,healthyfeet.com,Saucony,2943,276,29,"$1,392"
+3/10/23,healthyfeet.com,Nike,2804,249,27,"$1,512"
+3/10/23,healthyfeet.com,Reebok,2038,119,8,$232
+3/10/23,healthyfeet.com,Adidas,1735,99,8,$328
+3/10/23,healthyfeet.com,New Balance,1633,92,6,$180
+3/10/23,healthyfeet.com,Asics,1302,55,5,$165
+3/10/23,healthyfeet.com,Altra,1244,96,9,$243
+3/11/23,healthyfeet.com,Hoka,4808,565,50,"$2,900"
+3/11/23,healthyfeet.com,Brooks,3143,367,43,"$1,290"
+3/11/23,healthyfeet.com,Saucony,3087,212,21,$987
+3/11/23,healthyfeet.com,On Cloud,3005,251,22,"$1,210"
+3/11/23,healthyfeet.com,Reebok,2492,166,10,$500
+3/11/23,healthyfeet.com,Nike,2482,209,20,"$1,140"
+3/11/23,healthyfeet.com,Adidas,1659,131,11,$374
+3/11/23,healthyfeet.com,New Balance,1574,135,8,$240
+3/11/23,healthyfeet.com,Altra,1392,97,7,$196
+3/11/23,healthyfeet.com,Asics,1278,52,4,$84
+3/12/23,healthyfeet.com,Hoka,3779,429,24,"$1,128"
+3/12/23,healthyfeet.com,On Cloud,3613,303,31,"$1,705"
+3/12/23,healthyfeet.com,Brooks,3573,331,40,"$1,320"
+3/12/23,healthyfeet.com,Saucony,3450,206,23,"$1,081"
+3/12/23,healthyfeet.com,Reebok,2497,126,9,$387
+3/12/23,healthyfeet.com,Nike,2471,176,16,$672
+3/12/23,healthyfeet.com,New Balance,1725,146,12,$360
+3/12/23,healthyfeet.com,Adidas,1507,78,6,$144
+3/12/23,healthyfeet.com,Asics,1432,77,6,$204
+3/12/23,healthyfeet.com,Altra,1362,60,6,$204
+3/13/23,healthyfeet.com,Hoka,4516,400,29,"$1,566"
+3/13/23,healthyfeet.com,Brooks,3942,452,52,"$1,612"
+3/13/23,healthyfeet.com,Saucony,3378,258,28,"$1,148"
+3/13/23,healthyfeet.com,On Cloud,3279,251,24,"$1,320"
+3/13/23,healthyfeet.com,Nike,2161,137,15,$600
+3/13/23,healthyfeet.com,Reebok,2066,105,8,$328
+3/13/23,healthyfeet.com,New Balance,1719,95,6,$180
+3/13/23,healthyfeet.com,Adidas,1593,137,11,$451
+3/13/23,healthyfeet.com,Altra,1476,115,10,$340
+3/13/23,healthyfeet.com,Asics,1251,81,7,$161
+3/14/23,healthyfeet.com,Hoka,3803,433,26,"$1,612"
+3/14/23,healthyfeet.com,On Cloud,3553,349,35,"$1,925"
+3/14/23,healthyfeet.com,Brooks,3294,319,32,$704
+3/14/23,healthyfeet.com,Saucony,3137,307,32,"$1,504"
+3/14/23,healthyfeet.com,Reebok,2355,122,10,$480
+3/14/23,healthyfeet.com,Nike,1892,102,10,$300
+3/14/23,healthyfeet.com,Adidas,1598,130,10,$400
+3/14/23,healthyfeet.com,New Balance,1576,120,7,$210
+3/14/23,healthyfeet.com,Asics,1518,68,6,$126
+3/14/23,healthyfeet.com,Altra,1257,70,6,$174
+3/15/23,healthyfeet.com,Hoka,4765,400,29,"$2,088"
+3/15/23,healthyfeet.com,Brooks,3888,421,50,"$1,900"
+3/15/23,healthyfeet.com,Saucony,3577,251,23,"$1,104"
+3/15/23,healthyfeet.com,On Cloud,2754,294,30,"$1,650"
+3/15/23,healthyfeet.com,Nike,2442,208,21,$756
+3/15/23,healthyfeet.com,Reebok,2182,133,8,$384
+3/15/23,healthyfeet.com,Adidas,1999,157,10,$410
+3/15/23,healthyfeet.com,New Balance,1614,135,9,$270
+3/15/23,healthyfeet.com,Altra,1493,118,9,$297
+3/15/23,healthyfeet.com,Asics,1380,80,6,$174
+3/16/23,healthyfeet.com,Hoka,4269,362,23,"$1,518"
+3/16/23,healthyfeet.com,Brooks,4020,431,49,"$1,470"
+3/16/23,healthyfeet.com,On Cloud,3137,245,21,"$1,155"
+3/16/23,healthyfeet.com,Saucony,3096,284,30,"$1,410"
+3/16/23,healthyfeet.com,Nike,2524,182,19,$950
+3/16/23,healthyfeet.com,Reebok,2225,114,7,$273
+3/16/23,healthyfeet.com,New Balance,1788,96,8,$240
+3/16/23,healthyfeet.com,Adidas,1523,84,6,$258
+3/16/23,healthyfeet.com,Asics,1330,90,7,$182
+3/16/23,healthyfeet.com,Altra,1259,86,7,$161
+3/17/23,healthyfeet.com,Hoka,4138,379,24,"$1,416"
+3/17/23,healthyfeet.com,Brooks,3969,465,52,"$1,248"
+3/17/23,healthyfeet.com,Saucony,3184,174,19,$817
+3/17/23,healthyfeet.com,On Cloud,2998,260,28,"$1,540"
+3/17/23,healthyfeet.com,Reebok,2288,157,8,$296
+3/17/23,healthyfeet.com,Nike,2083,173,19,$703
+3/17/23,healthyfeet.com,New Balance,1585,96,6,$180
+3/17/23,healthyfeet.com,Adidas,1556,116,9,$234
+3/17/23,healthyfeet.com,Asics,1551,70,5,$150
+3/17/23,healthyfeet.com,Altra,1396,60,6,$180
+3/18/23,healthyfeet.com,Hoka,4540,449,40,"$2,240"
+3/18/23,healthyfeet.com,Brooks,3244,342,36,$972
+3/18/23,healthyfeet.com,Saucony,2970,191,19,$950
+3/18/23,healthyfeet.com,On Cloud,2964,255,18,$990
+3/18/23,healthyfeet.com,Nike,2728,211,23,$943
+3/18/23,healthyfeet.com,Reebok,2456,101,8,$208
+3/18/23,healthyfeet.com,Adidas,1681,117,8,$144
+3/18/23,healthyfeet.com,New Balance,1508,125,7,$210
+3/18/23,healthyfeet.com,Asics,1432,72,6,$150
+3/18/23,healthyfeet.com,Altra,1426,90,8,$192
+3/19/23,healthyfeet.com,Hoka,4657,491,45,"$2,115"
+3/19/23,healthyfeet.com,On Cloud,3817,455,36,"$1,980"
+3/19/23,healthyfeet.com,Brooks,3165,323,39,"$1,248"
+3/19/23,healthyfeet.com,Saucony,2878,188,18,$828
+3/19/23,healthyfeet.com,Nike,2799,147,15,$630
+3/19/23,healthyfeet.com,Reebok,2156,127,7,$266
+3/19/23,healthyfeet.com,Adidas,1992,123,10,$430
+3/19/23,healthyfeet.com,New Balance,1622,146,10,$300
+3/19/23,healthyfeet.com,Altra,1346,75,7,$224
+3/19/23,healthyfeet.com,Asics,1298,57,4,$132
+3/20/23,healthyfeet.com,Hoka,4361,379,29,"$1,421"
+3/20/23,healthyfeet.com,On Cloud,3842,424,45,"$2,475"
+3/20/23,healthyfeet.com,Brooks,2982,331,35,$910
+3/20/23,healthyfeet.com,Saucony,2890,204,19,$931
+3/20/23,healthyfeet.com,Reebok,2358,154,9,$432
+3/20/23,healthyfeet.com,Nike,2284,147,15,$825
+3/20/23,healthyfeet.com,New Balance,1854,157,11,$330
+3/20/23,healthyfeet.com,Adidas,1675,136,12,$192
+3/20/23,healthyfeet.com,Asics,1525,67,5,$155
+3/20/23,healthyfeet.com,Altra,1436,98,9,$234
+3/21/23,healthyfeet.com,Hoka,3889,393,21,"$1,113"
+3/21/23,healthyfeet.com,Saucony,3541,340,31,"$1,395"
+3/21/23,healthyfeet.com,On Cloud,3176,273,30,"$1,650"
+3/21/23,healthyfeet.com,Brooks,3035,343,41,"$1,230"
+3/21/23,healthyfeet.com,Reebok,2324,104,8,$248
+3/21/23,healthyfeet.com,Nike,2217,159,15,$570
+3/21/23,healthyfeet.com,New Balance,2000,162,10,$300
+3/21/23,healthyfeet.com,Adidas,1503,130,11,$330
+3/21/23,healthyfeet.com,Altra,1341,74,7,$189
+3/21/23,healthyfeet.com,Asics,1247,64,4,$104
+3/22/23,healthyfeet.com,Hoka,4604,385,30,"$1,830"
+3/22/23,healthyfeet.com,On Cloud,3124,239,24,"$1,320"
+3/22/23,healthyfeet.com,Saucony,3117,278,28,"$1,288"
+3/22/23,healthyfeet.com,Brooks,2965,322,31,"$1,085"
+3/22/23,healthyfeet.com,Nike,2396,135,15,$465
+3/22/23,healthyfeet.com,Reebok,2114,136,8,$296
+3/22/23,healthyfeet.com,Adidas,1630,103,8,$272
+3/22/23,healthyfeet.com,New Balance,1617,97,8,$240
+3/22/23,healthyfeet.com,Altra,1462,97,8,$216
+3/22/23,healthyfeet.com,Asics,1317,88,7,$154
+3/23/23,healthyfeet.com,Hoka,5025,511,26,"$1,456"
+3/23/23,healthyfeet.com,On Cloud,3770,444,49,"$2,695"
+3/23/23,healthyfeet.com,Brooks,3706,400,38,"$1,406"
+3/23/23,healthyfeet.com,Saucony,3525,280,28,"$1,148"
+3/23/23,healthyfeet.com,Reebok,2140,116,8,$240
+3/23/23,healthyfeet.com,Nike,1942,137,14,$756
+3/23/23,healthyfeet.com,Adidas,1675,92,8,$280
+3/23/23,healthyfeet.com,New Balance,1635,109,9,$270
+3/23/23,healthyfeet.com,Asics,1552,66,5,$105
+3/23/23,healthyfeet.com,Altra,1388,67,6,$186
+3/24/23,healthyfeet.com,Hoka,4986,572,51,"$2,652"
+3/24/23,healthyfeet.com,On Cloud,4028,301,24,"$1,320"
+3/24/23,healthyfeet.com,Saucony,3537,352,39,"$1,638"
+3/24/23,healthyfeet.com,Brooks,3428,322,36,"$1,368"
+3/24/23,healthyfeet.com,Nike,2619,206,21,$630
+3/24/23,healthyfeet.com,Reebok,2200,143,12,$564
+3/24/23,healthyfeet.com,Adidas,1847,146,12,$456
+3/24/23,healthyfeet.com,New Balance,1515,103,8,$240
+3/24/23,healthyfeet.com,Altra,1432,66,6,$186
+3/24/23,healthyfeet.com,Asics,1227,58,4,$96
+3/25/23,healthyfeet.com,Hoka,4790,477,41,"$2,501"
+3/25/23,healthyfeet.com,On Cloud,3613,335,24,"$1,320"
+3/25/23,healthyfeet.com,Brooks,3373,360,37,"$1,480"
+3/25/23,healthyfeet.com,Saucony,3102,262,25,"$1,225"
+3/25/23,healthyfeet.com,Reebok,2213,155,10,$250
+3/25/23,healthyfeet.com,Nike,2066,113,12,$720
+3/25/23,healthyfeet.com,New Balance,1796,152,12,$360
+3/25/23,healthyfeet.com,Adidas,1587,125,11,$440
+3/25/23,healthyfeet.com,Asics,1409,85,5,$170
+3/25/23,healthyfeet.com,Altra,1267,66,5,$175
+3/26/23,healthyfeet.com,Hoka,4227,441,36,"$2,700"
+3/26/23,healthyfeet.com,Brooks,3708,427,44,"$1,716"
+3/26/23,healthyfeet.com,On Cloud,3491,315,28,"$1,540"
+3/26/23,healthyfeet.com,Saucony,3455,222,21,$882
+3/26/23,healthyfeet.com,Nike,2789,189,18,"$1,062"
+3/26/23,healthyfeet.com,Reebok,2040,128,9,$396
+3/26/23,healthyfeet.com,Adidas,1850,162,11,$418
+3/26/23,healthyfeet.com,New Balance,1533,102,7,$210
+3/26/23,healthyfeet.com,Asics,1368,79,5,$115
+3/26/23,healthyfeet.com,Altra,1359,100,8,$224
+3/27/23,healthyfeet.com,Hoka,4794,472,43,"$2,666"
+3/27/23,healthyfeet.com,Brooks,3694,306,35,$805
+3/27/23,healthyfeet.com,On Cloud,3377,261,20,"$1,100"
+3/27/23,healthyfeet.com,Saucony,3129,217,20,$860
+3/27/23,healthyfeet.com,Nike,2534,162,18,$648
+3/27/23,healthyfeet.com,Reebok,2205,144,8,$304
+3/27/23,healthyfeet.com,New Balance,1977,145,9,$270
+3/27/23,healthyfeet.com,Adidas,1559,128,10,$350
+3/27/23,healthyfeet.com,Asics,1495,96,6,$180
+3/27/23,healthyfeet.com,Altra,1246,91,8,$160
+3/28/23,healthyfeet.com,On Cloud,3864,426,46,"$2,530"
+3/28/23,healthyfeet.com,Hoka,3728,417,35,"$2,345"
+3/28/23,healthyfeet.com,Saucony,3648,194,19,$798
+3/28/23,healthyfeet.com,Brooks,3404,384,38,"$1,368"
+3/28/23,healthyfeet.com,Nike,2551,129,12,$468
+3/28/23,healthyfeet.com,Reebok,2024,93,6,$192
+3/28/23,healthyfeet.com,New Balance,1633,97,7,$210
+3/28/23,healthyfeet.com,Adidas,1571,99,7,$189
+3/28/23,healthyfeet.com,Altra,1480,102,9,$225
+3/28/23,healthyfeet.com,Asics,1214,83,5,$110
+3/29/23,healthyfeet.com,Hoka,3851,434,25,"$1,425"
+3/29/23,healthyfeet.com,Saucony,3603,278,30,"$1,290"
+3/29/23,healthyfeet.com,On Cloud,3217,263,28,"$1,540"
+3/29/23,healthyfeet.com,Brooks,2906,241,25,$550
+3/29/23,healthyfeet.com,Nike,2407,199,19,"$1,007"
+3/29/23,healthyfeet.com,Reebok,2244,100,6,$246
+3/29/23,healthyfeet.com,Adidas,1930,168,12,$180
+3/29/23,healthyfeet.com,New Balance,1808,98,8,$240
+3/29/23,healthyfeet.com,Altra,1386,73,6,$132
+3/29/23,healthyfeet.com,Asics,1259,52,4,$84
+3/30/23,healthyfeet.com,Hoka,4719,527,45,"$2,160"
+3/30/23,healthyfeet.com,Brooks,3701,437,42,"$1,050"
+3/30/23,healthyfeet.com,Saucony,3315,253,25,"$1,050"
+3/30/23,healthyfeet.com,On Cloud,2772,265,30,"$1,650"
+3/30/23,healthyfeet.com,Nike,2279,180,17,$578
+3/30/23,healthyfeet.com,Reebok,2059,91,6,$180
+3/30/23,healthyfeet.com,Adidas,1799,142,10,$310
+3/30/23,healthyfeet.com,New Balance,1543,138,8,$240
+3/30/23,healthyfeet.com,Asics,1293,72,5,$160
+3/30/23,healthyfeet.com,Altra,1224,58,6,$198
+3/31/23,healthyfeet.com,Hoka,4411,516,29,"$1,885"
+3/31/23,healthyfeet.com,Brooks,3807,356,39,"$1,560"
+3/31/23,healthyfeet.com,Saucony,3434,332,33,"$1,518"
+3/31/23,healthyfeet.com,On Cloud,3426,411,34,"$1,870"
+3/31/23,healthyfeet.com,Reebok,2064,111,8,$296
+3/31/23,healthyfeet.com,Nike,2029,177,19,$893
+3/31/23,healthyfeet.com,New Balance,1884,164,9,$270
+3/31/23,healthyfeet.com,Adidas,1876,103,7,$196
+3/31/23,healthyfeet.com,Asics,1564,63,5,$80
+3/31/23,healthyfeet.com,Altra,1229,61,6,$138
+4/1/23,healthyfeet.com,Hoka,4534,366,20,"$1,300"
+4/1/23,healthyfeet.com,On Cloud,4230,401,39,"$2,145"
+4/1/23,healthyfeet.com,Brooks,4158,476,51,"$1,071"
+4/1/23,healthyfeet.com,Saucony,3673,239,22,$946
+4/1/23,healthyfeet.com,Reebok,2415,100,6,$150
+4/1/23,healthyfeet.com,Nike,2325,177,18,"$1,008"
+4/1/23,healthyfeet.com,Adidas,1951,130,11,$231
+4/1/23,healthyfeet.com,New Balance,1617,86,5,$150
+4/1/23,healthyfeet.com,Asics,1476,74,5,$160
+4/1/23,healthyfeet.com,Altra,1380,98,9,$252
+4/2/23,healthyfeet.com,Hoka,3988,329,30,"$2,190"
+4/2/23,healthyfeet.com,On Cloud,3985,389,39,"$2,145"
+4/2/23,healthyfeet.com,Brooks,3547,392,40,$880
+4/2/23,healthyfeet.com,Saucony,3468,336,36,"$1,512"
+4/2/23,healthyfeet.com,Nike,2551,216,23,"$1,058"
+4/2/23,healthyfeet.com,Reebok,2480,170,10,$250
+4/2/23,healthyfeet.com,New Balance,1831,128,8,$240
+4/2/23,healthyfeet.com,Adidas,1637,122,10,$430
+4/2/23,healthyfeet.com,Asics,1461,83,5,$95
+4/2/23,healthyfeet.com,Altra,1294,86,8,$200
+4/3/23,healthyfeet.com,On Cloud,4180,430,32,"$1,760"
+4/3/23,healthyfeet.com,Brooks,3994,427,51,"$1,989"
+4/3/23,healthyfeet.com,Hoka,3982,368,29,"$1,566"
+4/3/23,healthyfeet.com,Saucony,3218,318,31,"$1,240"
+4/3/23,healthyfeet.com,Reebok,2108,147,11,$308
+4/3/23,healthyfeet.com,Nike,2064,123,13,$611
+4/3/23,healthyfeet.com,New Balance,1949,107,9,$270
+4/3/23,healthyfeet.com,Adidas,1654,141,11,$275
+4/3/23,healthyfeet.com,Altra,1372,110,9,$216
+4/3/23,healthyfeet.com,Asics,1277,78,6,$120
+4/4/23,healthyfeet.com,Hoka,4722,391,31,"$1,395"
+4/4/23,healthyfeet.com,On Cloud,4031,418,45,"$2,475"
+4/4/23,healthyfeet.com,Brooks,3704,420,43,$860
+4/4/23,healthyfeet.com,Saucony,3330,205,23,$943
+4/4/23,healthyfeet.com,Reebok,2157,128,9,$378
+4/4/23,healthyfeet.com,Nike,1880,108,11,$484
+4/4/23,healthyfeet.com,Adidas,1543,85,7,$252
+4/4/23,healthyfeet.com,New Balance,1523,88,7,$210
+4/4/23,healthyfeet.com,Asics,1509,104,8,$128
+4/4/23,healthyfeet.com,Altra,1207,80,7,$175
+4/5/23,healthyfeet.com,Hoka,4523,443,35,"$2,625"
+4/5/23,healthyfeet.com,Saucony,3826,297,32,"$1,472"
+4/5/23,healthyfeet.com,Brooks,3157,351,33,$693
+4/5/23,healthyfeet.com,On Cloud,2896,261,28,"$1,540"
+4/5/23,healthyfeet.com,Nike,2422,175,20,$980
+4/5/23,healthyfeet.com,Reebok,2414,101,6,$162
+4/5/23,healthyfeet.com,New Balance,1617,81,5,$150
+4/5/23,healthyfeet.com,Adidas,1585,105,8,$144
+4/5/23,healthyfeet.com,Altra,1368,96,7,$147
+4/5/23,healthyfeet.com,Asics,1366,70,5,$75
+4/6/23,healthyfeet.com,Hoka,4684,478,41,"$2,501"
+4/6/23,healthyfeet.com,Brooks,3709,364,38,"$1,140"
+4/6/23,healthyfeet.com,On Cloud,3311,391,33,"$1,815"
+4/6/23,healthyfeet.com,Saucony,3215,268,28,"$1,120"
+4/6/23,healthyfeet.com,Reebok,2483,173,13,$546
+4/6/23,healthyfeet.com,Nike,2469,130,14,$756
+4/6/23,healthyfeet.com,Adidas,1889,125,9,$144
+4/6/23,healthyfeet.com,New Balance,1505,89,6,$180
+4/6/23,healthyfeet.com,Asics,1469,77,5,$165
+4/6/23,healthyfeet.com,Altra,1260,86,7,$168
+4/7/23,healthyfeet.com,Hoka,4581,459,29,"$1,740"
+4/7/23,healthyfeet.com,Brooks,4006,452,45,$945
+4/7/23,healthyfeet.com,Saucony,3312,183,19,$950
+4/7/23,healthyfeet.com,On Cloud,3310,242,24,"$1,320"
+4/7/23,healthyfeet.com,Nike,2483,145,14,$560
+4/7/23,healthyfeet.com,Reebok,2435,115,9,$333
+4/7/23,healthyfeet.com,Adidas,1779,117,9,$189
+4/7/23,healthyfeet.com,New Balance,1634,106,7,$210
+4/7/23,healthyfeet.com,Asics,1499,74,5,$145
+4/7/23,healthyfeet.com,Altra,1477,102,9,$243
+4/8/23,healthyfeet.com,Hoka,4384,451,29,"$2,059"
+4/8/23,healthyfeet.com,Brooks,3882,316,38,"$1,178"
+4/8/23,healthyfeet.com,Saucony,3652,287,28,"$1,148"
+4/8/23,healthyfeet.com,On Cloud,3235,254,25,"$1,375"
+4/8/23,healthyfeet.com,Nike,2724,164,17,$816
+4/8/23,healthyfeet.com,Reebok,2297,113,9,$297
+4/8/23,healthyfeet.com,New Balance,1737,118,8,$240
+4/8/23,healthyfeet.com,Adidas,1713,101,7,$266
+4/8/23,healthyfeet.com,Asics,1469,98,7,$203
+4/8/23,healthyfeet.com,Altra,1208,82,7,$182
+4/9/23,healthyfeet.com,Hoka,4753,508,27,"$1,998"
+4/9/23,healthyfeet.com,Brooks,4034,357,33,"$1,221"
+4/9/23,healthyfeet.com,Saucony,3817,352,35,"$1,750"
+4/9/23,healthyfeet.com,On Cloud,3133,300,30,"$1,650"
+4/9/23,healthyfeet.com,Nike,2718,230,23,$805
+4/9/23,healthyfeet.com,Reebok,2063,117,7,$196
+4/9/23,healthyfeet.com,New Balance,1622,82,5,$150
+4/9/23,healthyfeet.com,Adidas,1574,84,6,$234
+4/9/23,healthyfeet.com,Asics,1268,61,4,$112
+4/9/23,healthyfeet.com,Altra,1267,79,7,$217
+4/10/23,healthyfeet.com,Brooks,4176,459,54,"$1,134"
+4/10/23,healthyfeet.com,Hoka,3928,318,26,"$1,326"
+4/10/23,healthyfeet.com,Saucony,3221,216,20,$900
+4/10/23,healthyfeet.com,On Cloud,2815,287,25,"$1,375"
+4/10/23,healthyfeet.com,Reebok,2454,116,8,$224
+4/10/23,healthyfeet.com,Nike,1877,119,11,$374
+4/10/23,healthyfeet.com,New Balance,1877,148,11,$330
+4/10/23,healthyfeet.com,Adidas,1696,97,7,$182
+4/10/23,healthyfeet.com,Asics,1478,71,4,$112
+4/10/23,healthyfeet.com,Altra,1292,90,7,$245
+4/11/23,healthyfeet.com,Hoka,4282,499,38,"$2,546"
+4/11/23,healthyfeet.com,On Cloud,3705,281,27,"$1,485"
+4/11/23,healthyfeet.com,Saucony,3630,284,29,"$1,218"
+4/11/23,healthyfeet.com,Brooks,3472,282,34,"$1,088"
+4/11/23,healthyfeet.com,Nike,2405,173,19,$912
+4/11/23,healthyfeet.com,Reebok,2215,137,8,$248
+4/11/23,healthyfeet.com,New Balance,1918,135,8,$240
+4/11/23,healthyfeet.com,Adidas,1787,143,11,$253
+4/11/23,healthyfeet.com,Asics,1530,103,6,$102
+4/11/23,healthyfeet.com,Altra,1341,62,6,$132
+4/12/23,healthyfeet.com,Hoka,4100,482,35,"$2,380"
+4/12/23,healthyfeet.com,Brooks,3898,354,35,"$1,260"
+4/12/23,healthyfeet.com,Saucony,3070,289,30,"$1,470"
+4/12/23,healthyfeet.com,On Cloud,2995,334,32,"$1,760"
+4/12/23,healthyfeet.com,Nike,2566,141,16,$480
+4/12/23,healthyfeet.com,Reebok,2229,149,12,$324
+4/12/23,healthyfeet.com,New Balance,1798,152,11,$330
+4/12/23,healthyfeet.com,Adidas,1506,87,7,$280
+4/12/23,healthyfeet.com,Asics,1348,85,5,$130
+4/12/23,healthyfeet.com,Altra,1271,95,9,$225
+4/13/23,healthyfeet.com,Hoka,5113,608,51,"$3,672"
+4/13/23,healthyfeet.com,Brooks,3922,404,44,"$1,672"
+4/13/23,healthyfeet.com,On Cloud,3893,366,26,"$1,430"
+4/13/23,healthyfeet.com,Saucony,3598,302,31,"$1,457"
+4/13/23,healthyfeet.com,Reebok,2306,133,11,$528
+4/13/23,healthyfeet.com,Nike,2200,188,21,"$1,239"
+4/13/23,healthyfeet.com,Adidas,1622,112,8,$240
+4/13/23,healthyfeet.com,New Balance,1577,127,10,$300
+4/13/23,healthyfeet.com,Asics,1558,85,7,$154
+4/13/23,healthyfeet.com,Altra,1398,83,8,$192
+4/14/23,healthyfeet.com,Hoka,4459,500,42,"$2,772"
+4/14/23,healthyfeet.com,Brooks,3874,336,37,$851
+4/14/23,healthyfeet.com,On Cloud,3489,363,30,"$1,650"
+4/14/23,healthyfeet.com,Saucony,3142,211,22,$880
+4/14/23,healthyfeet.com,Nike,2209,180,19,"$1,140"
+4/14/23,healthyfeet.com,Reebok,2047,139,10,$250
+4/14/23,healthyfeet.com,New Balance,1945,171,10,$300
+4/14/23,healthyfeet.com,Adidas,1720,99,7,$245
+4/14/23,healthyfeet.com,Altra,1468,86,7,$231
+4/14/23,healthyfeet.com,Asics,1408,77,6,$90
+4/15/23,healthyfeet.com,Hoka,4615,426,36,"$2,088"
+4/15/23,healthyfeet.com,Brooks,3884,402,44,"$1,540"
+4/15/23,healthyfeet.com,On Cloud,3660,271,28,"$1,540"
+4/15/23,healthyfeet.com,Saucony,3223,216,22,"$1,034"
+4/15/23,healthyfeet.com,Reebok,2123,122,8,$272
+4/15/23,healthyfeet.com,Nike,2090,110,11,$506
+4/15/23,healthyfeet.com,New Balance,1711,86,5,$150
+4/15/23,healthyfeet.com,Asics,1541,92,6,$210
+4/15/23,healthyfeet.com,Adidas,1513,96,9,$306
+4/15/23,healthyfeet.com,Altra,1396,72,7,$203
+4/16/23,healthyfeet.com,Hoka,4208,471,36,"$2,088"
+4/16/23,healthyfeet.com,On Cloud,4035,336,25,"$1,375"
+4/16/23,healthyfeet.com,Brooks,3688,343,36,$792
+4/16/23,healthyfeet.com,Saucony,3371,217,24,"$1,104"
+4/16/23,healthyfeet.com,Reebok,2177,131,9,$252
+4/16/23,healthyfeet.com,Nike,2072,137,14,$630
+4/16/23,healthyfeet.com,Adidas,1844,155,14,$602
+4/16/23,healthyfeet.com,Asics,1547,64,5,$130
+4/16/23,healthyfeet.com,New Balance,1540,99,7,$210
+4/16/23,healthyfeet.com,Altra,1369,58,5,$140
+4/17/23,healthyfeet.com,Hoka,4684,399,34,"$1,768"
+4/17/23,healthyfeet.com,Brooks,3977,388,46,"$1,426"
+4/17/23,healthyfeet.com,Saucony,3673,272,26,"$1,222"
+4/17/23,healthyfeet.com,On Cloud,3634,377,28,"$1,540"
+4/17/23,healthyfeet.com,Nike,2373,205,19,$627
+4/17/23,healthyfeet.com,Reebok,2014,134,8,$232
+4/17/23,healthyfeet.com,Adidas,1957,144,11,$495
+4/17/23,healthyfeet.com,New Balance,1719,136,7,$210
+4/17/23,healthyfeet.com,Asics,1401,88,5,$175
+4/17/23,healthyfeet.com,Altra,1217,76,6,$192
+4/18/23,healthyfeet.com,Hoka,5167,573,39,"$2,769"
+4/18/23,healthyfeet.com,Saucony,3829,379,41,"$1,640"
+4/18/23,healthyfeet.com,On Cloud,3580,263,27,"$1,485"
+4/18/23,healthyfeet.com,Brooks,3118,252,28,$784
+4/18/23,healthyfeet.com,Reebok,2348,135,9,$279
+4/18/23,healthyfeet.com,Nike,1891,112,13,$702
+4/18/23,healthyfeet.com,Adidas,1524,82,8,$216
+4/18/23,healthyfeet.com,New Balance,1518,101,8,$240
+4/18/23,healthyfeet.com,Asics,1387,60,4,$128
+4/18/23,healthyfeet.com,Altra,1307,99,9,$315
+4/19/23,healthyfeet.com,Hoka,5117,584,39,"$1,989"
+4/19/23,healthyfeet.com,Brooks,4135,459,43,"$1,333"
+4/19/23,healthyfeet.com,On Cloud,3531,255,20,"$1,100"
+4/19/23,healthyfeet.com,Saucony,3332,286,26,"$1,092"
+4/19/23,healthyfeet.com,Reebok,2448,124,7,$329
+4/19/23,healthyfeet.com,New Balance,1997,146,9,$270
+4/19/23,healthyfeet.com,Nike,1877,159,16,$480
+4/19/23,healthyfeet.com,Adidas,1863,130,9,$252
+4/19/23,healthyfeet.com,Asics,1496,102,7,$189
+4/19/23,healthyfeet.com,Altra,1288,83,8,$280
+4/20/23,healthyfeet.com,Hoka,4537,414,32,"$2,080"
+4/20/23,healthyfeet.com,On Cloud,3530,299,32,"$1,760"
+4/20/23,healthyfeet.com,Brooks,3470,320,31,$899
+4/20/23,healthyfeet.com,Saucony,3132,195,19,$874
+4/20/23,healthyfeet.com,Reebok,2000,128,8,$272
+4/20/23,healthyfeet.com,Nike,1864,152,17,$833
+4/20/23,healthyfeet.com,Adidas,1731,140,13,$416
+4/20/23,healthyfeet.com,New Balance,1697,145,12,$360
+4/20/23,healthyfeet.com,Altra,1361,106,8,$168
+4/20/23,healthyfeet.com,Asics,1298,65,4,$132
+4/21/23,healthyfeet.com,Hoka,3824,395,31,"$2,139"
+4/21/23,healthyfeet.com,Saucony,3584,304,30,"$1,200"
+4/21/23,healthyfeet.com,Brooks,3437,306,28,$868
+4/21/23,healthyfeet.com,On Cloud,2974,244,22,"$1,210"
+4/21/23,healthyfeet.com,Reebok,2426,116,9,$405
+4/21/23,healthyfeet.com,Nike,2248,151,17,$680
+4/21/23,healthyfeet.com,New Balance,1968,172,13,$390
+4/21/23,healthyfeet.com,Adidas,1765,102,10,$360
+4/21/23,healthyfeet.com,Altra,1390,72,7,$182
+4/21/23,healthyfeet.com,Asics,1312,68,5,$105
+4/22/23,healthyfeet.com,Hoka,5166,533,47,"$3,431"
+4/22/23,healthyfeet.com,On Cloud,4049,426,38,"$2,090"
+4/22/23,healthyfeet.com,Saucony,3701,230,23,$920
+4/22/23,healthyfeet.com,Brooks,3602,342,39,"$1,053"
+4/22/23,healthyfeet.com,Reebok,2345,141,10,$320
+4/22/23,healthyfeet.com,Nike,2078,178,19,$741
+4/22/23,healthyfeet.com,New Balance,1886,98,6,$180
+4/22/23,healthyfeet.com,Adidas,1552,84,6,$162
+4/22/23,healthyfeet.com,Altra,1457,84,7,$140
+4/22/23,healthyfeet.com,Asics,1322,91,6,$180
+4/23/23,healthyfeet.com,Hoka,4045,459,33,"$1,980"
+4/23/23,healthyfeet.com,Saucony,3710,228,23,"$1,104"
+4/23/23,healthyfeet.com,On Cloud,3597,408,39,"$2,145"
+4/23/23,healthyfeet.com,Brooks,3287,297,33,"$1,122"
+4/23/23,healthyfeet.com,Reebok,2185,124,8,$208
+4/23/23,healthyfeet.com,Nike,2047,124,14,$714
+4/23/23,healthyfeet.com,Adidas,1951,104,8,$136
+4/23/23,healthyfeet.com,New Balance,1703,150,11,$330
+4/23/23,healthyfeet.com,Altra,1281,83,7,$196
+4/23/23,healthyfeet.com,Asics,1217,85,6,$96
+4/24/23,healthyfeet.com,Hoka,3936,352,19,$950
+4/24/23,healthyfeet.com,On Cloud,3922,420,36,"$1,980"
+4/24/23,healthyfeet.com,Brooks,3222,316,30,$750
+4/24/23,healthyfeet.com,Saucony,3199,213,23,"$1,104"
+4/24/23,healthyfeet.com,Reebok,2351,138,8,$272
+4/24/23,healthyfeet.com,Nike,1947,156,15,$510
+4/24/23,healthyfeet.com,New Balance,1848,116,7,$210
+4/24/23,healthyfeet.com,Adidas,1562,115,8,$200
+4/24/23,healthyfeet.com,Altra,1493,100,9,$306
+4/24/23,healthyfeet.com,Asics,1397,57,4,$68
+4/25/23,healthyfeet.com,Hoka,3956,361,22,"$1,232"
+4/25/23,healthyfeet.com,Brooks,3576,316,34,"$1,156"
+4/25/23,healthyfeet.com,Saucony,3552,265,29,"$1,189"
+4/25/23,healthyfeet.com,On Cloud,3030,277,25,"$1,375"
+4/25/23,healthyfeet.com,Nike,2324,194,18,$810
+4/25/23,healthyfeet.com,Reebok,2278,95,6,$234
+4/25/23,healthyfeet.com,New Balance,1986,125,8,$240
+4/25/23,healthyfeet.com,Adidas,1600,144,12,$216
+4/25/23,healthyfeet.com,Asics,1544,91,6,$114
+4/25/23,healthyfeet.com,Altra,1248,97,9,$234
+4/26/23,healthyfeet.com,On Cloud,4239,379,38,"$2,090"
+4/26/23,healthyfeet.com,Hoka,3890,343,30,"$1,950"
+4/26/23,healthyfeet.com,Brooks,3684,325,31,$682
+4/26/23,healthyfeet.com,Saucony,3576,314,34,"$1,496"
+4/26/23,healthyfeet.com,Reebok,2078,120,10,$450
+4/26/23,healthyfeet.com,Nike,2045,152,17,$646
+4/26/23,healthyfeet.com,Adidas,1829,162,11,$231
+4/26/23,healthyfeet.com,New Balance,1758,133,11,$330
+4/26/23,healthyfeet.com,Asics,1535,67,5,$100
+4/26/23,healthyfeet.com,Altra,1453,75,7,$175
+4/27/23,healthyfeet.com,Hoka,4675,472,40,"$1,880"
+4/27/23,healthyfeet.com,Brooks,3816,390,44,"$1,320"
+4/27/23,healthyfeet.com,Saucony,3491,299,28,"$1,204"
+4/27/23,healthyfeet.com,On Cloud,3121,343,28,"$1,540"
+4/27/23,healthyfeet.com,Reebok,2149,148,12,$600
+4/27/23,healthyfeet.com,Nike,2014,172,17,$850
+4/27/23,healthyfeet.com,New Balance,1794,91,7,$210
+4/27/23,healthyfeet.com,Adidas,1705,92,7,$147
+4/27/23,healthyfeet.com,Altra,1322,65,6,$126
+4/27/23,healthyfeet.com,Asics,1252,70,5,$160
+4/28/23,healthyfeet.com,On Cloud,4247,437,44,"$2,420"
+4/28/23,healthyfeet.com,Hoka,4212,404,21,$945
+4/28/23,healthyfeet.com,Brooks,3474,391,42,"$1,344"
+4/28/23,healthyfeet.com,Saucony,3138,198,19,$912
+4/28/23,healthyfeet.com,Reebok,2288,102,6,$276
+4/28/23,healthyfeet.com,Nike,2272,186,18,$882
+4/28/23,healthyfeet.com,New Balance,1988,143,11,$330
+4/28/23,healthyfeet.com,Adidas,1515,136,13,$546
+4/28/23,healthyfeet.com,Altra,1431,73,7,$168
+4/28/23,healthyfeet.com,Asics,1238,63,4,$68
+4/29/23,healthyfeet.com,Hoka,5080,409,27,"$1,512"
+4/29/23,healthyfeet.com,On Cloud,3892,389,33,"$1,815"
+4/29/23,healthyfeet.com,Saucony,3664,247,27,"$1,296"
+4/29/23,healthyfeet.com,Brooks,3491,286,31,"$1,054"
+4/29/23,healthyfeet.com,Reebok,2112,112,6,$192
+4/29/23,healthyfeet.com,Nike,2092,108,12,$456
+4/29/23,healthyfeet.com,Adidas,1950,165,11,$341
+4/29/23,healthyfeet.com,New Balance,1647,127,9,$270
+4/29/23,healthyfeet.com,Altra,1360,65,5,$135
+4/29/23,healthyfeet.com,Asics,1307,74,6,$120
+4/30/23,healthyfeet.com,Hoka,4933,418,31,"$1,519"
+4/30/23,healthyfeet.com,Brooks,3869,364,36,"$1,116"
+4/30/23,healthyfeet.com,On Cloud,3728,379,31,"$1,705"
+4/30/23,healthyfeet.com,Saucony,3095,260,25,"$1,175"
+4/30/23,healthyfeet.com,Nike,2446,212,20,$720
+4/30/23,healthyfeet.com,Reebok,2067,94,5,$205
+4/30/23,healthyfeet.com,New Balance,1813,98,8,$240
+4/30/23,healthyfeet.com,Adidas,1702,114,9,$306
+4/30/23,healthyfeet.com,Asics,1585,84,5,$105
+4/30/23,healthyfeet.com,Altra,1225,87,7,$231
+5/1/23,healthyfeet.com,Brooks,4091,468,56,"$1,960"
+5/1/23,healthyfeet.com,Hoka,3906,361,25,"$1,150"
+5/1/23,healthyfeet.com,Saucony,3599,242,26,"$1,040"
+5/1/23,healthyfeet.com,On Cloud,2891,313,33,"$1,815"
+5/1/23,healthyfeet.com,Nike,2680,238,23,$874
+5/1/23,healthyfeet.com,Reebok,2278,123,9,$369
+5/1/23,healthyfeet.com,Adidas,1865,117,9,$360
+5/1/23,healthyfeet.com,New Balance,1762,124,7,$210
+5/1/23,healthyfeet.com,Altra,1486,96,8,$256
+5/1/23,healthyfeet.com,Asics,1365,70,6,$138
+5/2/23,healthyfeet.com,Hoka,5058,464,28,"$1,316"
+5/2/23,healthyfeet.com,Saucony,3478,267,28,"$1,120"
+5/2/23,healthyfeet.com,On Cloud,3234,311,32,"$1,760"
+5/2/23,healthyfeet.com,Brooks,3145,311,36,$864
+5/2/23,healthyfeet.com,Reebok,2154,114,9,$261
+5/2/23,healthyfeet.com,Nike,2013,157,17,"$1,020"
+5/2/23,healthyfeet.com,New Balance,1934,171,9,$270
+5/2/23,healthyfeet.com,Adidas,1581,137,11,$264
+5/2/23,healthyfeet.com,Asics,1531,105,7,$154
+5/2/23,healthyfeet.com,Altra,1354,93,8,$192
+5/3/23,healthyfeet.com,Hoka,4335,427,36,"$2,664"
+5/3/23,healthyfeet.com,Brooks,3924,391,42,"$1,260"
+5/3/23,healthyfeet.com,Saucony,3600,251,23,"$1,058"
+5/3/23,healthyfeet.com,On Cloud,2976,307,28,"$1,540"
+5/3/23,healthyfeet.com,Nike,2245,165,17,$714
+5/3/23,healthyfeet.com,Reebok,2040,92,5,$220
+5/3/23,healthyfeet.com,Adidas,2000,147,10,$270
+5/3/23,healthyfeet.com,New Balance,1534,89,7,$210
+5/3/23,healthyfeet.com,Asics,1494,63,5,$145
+5/3/23,healthyfeet.com,Altra,1284,99,8,$168
+5/4/23,healthyfeet.com,Hoka,4325,437,31,"$1,643"
+5/4/23,healthyfeet.com,Brooks,4315,367,43,"$1,591"
+5/4/23,healthyfeet.com,On Cloud,3367,404,35,"$1,925"
+5/4/23,healthyfeet.com,Saucony,3241,214,23,"$1,127"
+5/4/23,healthyfeet.com,Reebok,2065,102,7,$350
+5/4/23,healthyfeet.com,Adidas,1949,131,9,$387
+5/4/23,healthyfeet.com,Nike,1937,111,11,$363
+5/4/23,healthyfeet.com,New Balance,1902,144,9,$270
+5/4/23,healthyfeet.com,Asics,1525,66,5,$105
+5/4/23,healthyfeet.com,Altra,1217,55,5,$120
+5/5/23,healthyfeet.com,Hoka,4970,484,29,"$1,508"
+5/5/23,healthyfeet.com,Brooks,3911,441,42,"$1,218"
+5/5/23,healthyfeet.com,Saucony,3500,301,28,"$1,344"
+5/5/23,healthyfeet.com,On Cloud,2989,291,22,"$1,210"
+5/5/23,healthyfeet.com,Nike,2533,184,19,$988
+5/5/23,healthyfeet.com,Reebok,2055,84,7,$350
+5/5/23,healthyfeet.com,Adidas,1729,137,10,$220
+5/5/23,healthyfeet.com,New Balance,1563,139,11,$330
+5/5/23,healthyfeet.com,Asics,1353,76,5,$170
+5/5/23,healthyfeet.com,Altra,1293,92,7,$189
+5/6/23,healthyfeet.com,Hoka,4162,495,34,"$1,972"
+5/6/23,healthyfeet.com,Brooks,3809,434,51,"$1,377"
+5/6/23,healthyfeet.com,Saucony,3419,291,31,"$1,302"
+5/6/23,healthyfeet.com,On Cloud,2896,285,29,"$1,595"
+5/6/23,healthyfeet.com,Reebok,2236,135,8,$208
+5/6/23,healthyfeet.com,Nike,2197,170,17,$731
+5/6/23,healthyfeet.com,Adidas,1962,157,11,$187
+5/6/23,healthyfeet.com,New Balance,1520,111,9,$270
+5/6/23,healthyfeet.com,Altra,1309,98,9,$189
+5/6/23,healthyfeet.com,Asics,1269,58,4,$68
+5/7/23,healthyfeet.com,Hoka,4051,439,36,"$2,160"
+5/7/23,healthyfeet.com,Brooks,3733,325,31,"$1,147"
+5/7/23,healthyfeet.com,Saucony,3445,254,28,"$1,148"
+5/7/23,healthyfeet.com,On Cloud,3195,337,33,"$1,815"
+5/7/23,healthyfeet.com,Reebok,2452,122,8,$232
+5/7/23,healthyfeet.com,Nike,1951,115,13,$650
+5/7/23,healthyfeet.com,Adidas,1879,151,11,$187
+5/7/23,healthyfeet.com,New Balance,1803,149,9,$270
+5/7/23,healthyfeet.com,Altra,1361,56,5,$160
+5/7/23,healthyfeet.com,Asics,1274,72,6,$210
+5/8/23,healthyfeet.com,Hoka,4674,418,37,"$2,590"
+5/8/23,healthyfeet.com,Brooks,3939,357,38,"$1,292"
+5/8/23,healthyfeet.com,On Cloud,3696,358,36,"$1,980"
+5/8/23,healthyfeet.com,Saucony,3253,320,33,"$1,452"
+5/8/23,healthyfeet.com,Nike,2679,140,15,$765
+5/8/23,healthyfeet.com,Reebok,2305,94,6,$186
+5/8/23,healthyfeet.com,Adidas,1817,129,11,$275
+5/8/23,healthyfeet.com,New Balance,1620,146,10,$300
+5/8/23,healthyfeet.com,Altra,1454,111,9,$207
+5/8/23,healthyfeet.com,Asics,1293,70,4,$124
+5/9/23,healthyfeet.com,Hoka,4877,504,27,"$1,593"
+5/9/23,healthyfeet.com,On Cloud,3980,403,34,"$1,870"
+5/9/23,healthyfeet.com,Saucony,3615,249,23,"$1,058"
+5/9/23,healthyfeet.com,Brooks,3216,269,28,$616
+5/9/23,healthyfeet.com,Nike,2460,192,18,$684
+5/9/23,healthyfeet.com,Reebok,2460,168,13,$494
+5/9/23,healthyfeet.com,New Balance,1886,117,8,$240
+5/9/23,healthyfeet.com,Adidas,1838,106,10,$230
+5/9/23,healthyfeet.com,Altra,1343,84,8,$224
+5/9/23,healthyfeet.com,Asics,1335,80,5,$125
+5/10/23,healthyfeet.com,Hoka,4628,534,47,"$3,290"
+5/10/23,healthyfeet.com,On Cloud,3815,285,23,"$1,265"
+5/10/23,healthyfeet.com,Brooks,3704,346,42,"$1,218"
+5/10/23,healthyfeet.com,Saucony,3500,261,25,"$1,075"
+5/10/23,healthyfeet.com,Reebok,2024,141,10,$300
+5/10/23,healthyfeet.com,Nike,1858,135,15,$645
+5/10/23,healthyfeet.com,New Balance,1758,93,8,$240
+5/10/23,healthyfeet.com,Adidas,1741,101,8,$224
+5/10/23,healthyfeet.com,Altra,1455,73,7,$224
+5/10/23,healthyfeet.com,Asics,1270,83,6,$162
+5/11/23,healthyfeet.com,Hoka,5213,613,43,"$3,096"
+5/11/23,healthyfeet.com,On Cloud,3412,370,39,"$2,145"
+5/11/23,healthyfeet.com,Brooks,3315,396,39,"$1,560"
+5/11/23,healthyfeet.com,Saucony,3179,238,24,"$1,008"
+5/11/23,healthyfeet.com,Nike,2688,171,18,$666
+5/11/23,healthyfeet.com,Reebok,2436,157,9,$387
+5/11/23,healthyfeet.com,New Balance,1778,118,6,$180
+5/11/23,healthyfeet.com,Adidas,1690,140,11,$286
+5/11/23,healthyfeet.com,Altra,1441,112,10,$200
+5/11/23,healthyfeet.com,Asics,1259,59,5,$150
+5/12/23,healthyfeet.com,Hoka,4934,486,34,"$1,802"
+5/12/23,healthyfeet.com,Brooks,3903,396,38,$760
+5/12/23,healthyfeet.com,On Cloud,3879,300,32,"$1,760"
+5/12/23,healthyfeet.com,Saucony,3288,321,33,"$1,617"
+5/12/23,healthyfeet.com,Reebok,2465,159,9,$342
+5/12/23,healthyfeet.com,Nike,2193,171,17,$799
+5/12/23,healthyfeet.com,New Balance,1843,119,10,$300
+5/12/23,healthyfeet.com,Adidas,1609,88,6,$264
+5/12/23,healthyfeet.com,Asics,1230,79,5,$165
+5/12/23,healthyfeet.com,Altra,1201,94,8,$192
+5/13/23,healthyfeet.com,Hoka,4863,542,34,"$1,666"
+5/13/23,healthyfeet.com,Brooks,4313,410,43,"$1,634"
+5/13/23,healthyfeet.com,Saucony,3678,312,34,"$1,666"
+5/13/23,healthyfeet.com,On Cloud,2983,287,32,"$1,760"
+5/13/23,healthyfeet.com,Reebok,2304,119,9,$234
+5/13/23,healthyfeet.com,Nike,1907,138,14,$448
+5/13/23,healthyfeet.com,Adidas,1883,102,9,$396
+5/13/23,healthyfeet.com,New Balance,1787,115,10,$300
+5/13/23,healthyfeet.com,Asics,1550,84,7,$119
+5/13/23,healthyfeet.com,Altra,1347,86,7,$140
+5/14/23,healthyfeet.com,Hoka,4639,516,30,"$1,950"
+5/14/23,healthyfeet.com,Brooks,4338,404,40,"$1,480"
+5/14/23,healthyfeet.com,On Cloud,4022,344,36,"$1,980"
+5/14/23,healthyfeet.com,Saucony,3833,323,33,"$1,419"
+5/14/23,healthyfeet.com,Nike,2615,235,25,$800
+5/14/23,healthyfeet.com,Reebok,2361,151,12,$312
+5/14/23,healthyfeet.com,New Balance,1824,105,8,$240
+5/14/23,healthyfeet.com,Adidas,1548,96,8,$136
+5/14/23,healthyfeet.com,Asics,1457,69,5,$125
+5/14/23,healthyfeet.com,Altra,1275,64,5,$130
+5/15/23,healthyfeet.com,Hoka,4881,440,30,"$1,500"
+5/15/23,healthyfeet.com,Saucony,3914,224,24,"$1,176"
+5/15/23,healthyfeet.com,Brooks,3188,282,28,$784
+5/15/23,healthyfeet.com,On Cloud,2962,210,19,"$1,045"
+5/15/23,healthyfeet.com,Nike,2523,226,22,$726
+5/15/23,healthyfeet.com,Reebok,2051,142,8,$320
+5/15/23,healthyfeet.com,New Balance,1670,102,6,$180
+5/15/23,healthyfeet.com,Adidas,1568,123,9,$144
+5/15/23,healthyfeet.com,Asics,1497,69,5,$80
+5/15/23,healthyfeet.com,Altra,1481,107,8,$248
+5/16/23,healthyfeet.com,Brooks,3990,384,40,"$1,320"
+5/16/23,healthyfeet.com,Hoka,3867,340,20,"$1,140"
+5/16/23,healthyfeet.com,Saucony,3339,197,21,$840
+5/16/23,healthyfeet.com,On Cloud,3282,316,34,"$1,870"
+5/16/23,healthyfeet.com,Nike,2282,194,20,$860
+5/16/23,healthyfeet.com,Reebok,2211,127,9,$324
+5/16/23,healthyfeet.com,New Balance,1935,174,10,$300
+5/16/23,healthyfeet.com,Adidas,1598,114,11,$231
+5/16/23,healthyfeet.com,Asics,1557,78,7,$126
+5/16/23,healthyfeet.com,Altra,1482,117,9,$261
+5/17/23,healthyfeet.com,Hoka,4974,557,47,"$3,196"
+5/17/23,healthyfeet.com,Saucony,3943,229,25,"$1,050"
+5/17/23,healthyfeet.com,Brooks,3350,318,29,"$1,044"
+5/17/23,healthyfeet.com,On Cloud,3158,322,29,"$1,595"
+5/17/23,healthyfeet.com,Reebok,2441,123,9,$252
+5/17/23,healthyfeet.com,Nike,2440,142,14,$434
+5/17/23,healthyfeet.com,Adidas,1778,155,12,$528
+5/17/23,healthyfeet.com,New Balance,1558,88,5,$150
+5/17/23,healthyfeet.com,Asics,1343,67,4,$124
+5/17/23,healthyfeet.com,Altra,1305,58,5,$150
+5/18/23,healthyfeet.com,Hoka,4455,497,42,"$2,226"
+5/18/23,healthyfeet.com,Brooks,3733,420,48,"$1,776"
+5/18/23,healthyfeet.com,Saucony,3603,321,31,"$1,364"
+5/18/23,healthyfeet.com,On Cloud,3468,325,28,"$1,540"
+5/18/23,healthyfeet.com,Reebok,2418,151,9,$243
+5/18/23,healthyfeet.com,Nike,2330,131,14,$490
+5/18/23,healthyfeet.com,New Balance,1723,117,8,$240
+5/18/23,healthyfeet.com,Adidas,1659,114,8,$184
+5/18/23,healthyfeet.com,Asics,1598,73,4,$120
+5/18/23,healthyfeet.com,Altra,1488,79,7,$196
+5/19/23,healthyfeet.com,Hoka,3881,404,29,"$1,624"
+5/19/23,healthyfeet.com,On Cloud,3655,258,27,"$1,485"
+5/19/23,healthyfeet.com,Brooks,3533,319,30,$630
+5/19/23,healthyfeet.com,Saucony,3429,316,35,"$1,645"
+5/19/23,healthyfeet.com,Nike,2277,134,14,$532
+5/19/23,healthyfeet.com,Reebok,2151,149,10,$400
+5/19/23,healthyfeet.com,New Balance,1842,163,11,$330
+5/19/23,healthyfeet.com,Adidas,1706,86,7,$161
+5/19/23,healthyfeet.com,Altra,1420,88,7,$182
+5/19/23,healthyfeet.com,Asics,1226,86,5,$110
+5/20/23,healthyfeet.com,Hoka,4564,395,36,"$2,628"
+5/20/23,healthyfeet.com,Brooks,4211,369,39,"$1,482"
+5/20/23,healthyfeet.com,Saucony,3913,309,33,"$1,419"
+5/20/23,healthyfeet.com,On Cloud,3809,453,37,"$2,035"
+5/20/23,healthyfeet.com,Nike,2586,163,18,$774
+5/20/23,healthyfeet.com,Reebok,2296,127,9,$279
+5/20/23,healthyfeet.com,Adidas,1820,121,8,$128
+5/20/23,healthyfeet.com,New Balance,1688,86,5,$150
+5/20/23,healthyfeet.com,Asics,1278,74,6,$186
+5/20/23,healthyfeet.com,Altra,1247,63,5,$110
+5/21/23,healthyfeet.com,Hoka,4719,455,25,"$1,200"
+5/21/23,healthyfeet.com,On Cloud,4101,354,29,"$1,595"
+5/21/23,healthyfeet.com,Saucony,3884,353,36,"$1,656"
+5/21/23,healthyfeet.com,Brooks,3539,290,33,"$1,320"
+5/21/23,healthyfeet.com,Nike,2570,163,16,$592
+5/21/23,healthyfeet.com,Reebok,2353,134,9,$369
+5/21/23,healthyfeet.com,Adidas,1918,116,9,$405
+5/21/23,healthyfeet.com,New Balance,1703,89,6,$180
+5/21/23,healthyfeet.com,Asics,1586,75,6,$204
+5/21/23,healthyfeet.com,Altra,1341,78,7,$210
+5/22/23,healthyfeet.com,Hoka,4608,532,34,"$1,972"
+5/22/23,healthyfeet.com,Brooks,4205,356,36,"$1,152"
+5/22/23,healthyfeet.com,On Cloud,3693,394,38,"$2,090"
+5/22/23,healthyfeet.com,Saucony,3568,188,19,$836
+5/22/23,healthyfeet.com,Nike,2322,121,12,$612
+5/22/23,healthyfeet.com,Reebok,2120,89,6,$228
+5/22/23,healthyfeet.com,Adidas,1918,121,9,$360
+5/22/23,healthyfeet.com,New Balance,1676,87,5,$150
+5/22/23,healthyfeet.com,Altra,1387,88,8,$176
+5/22/23,healthyfeet.com,Asics,1260,83,6,$90
+5/23/23,healthyfeet.com,Hoka,4798,488,25,"$1,675"
+5/23/23,healthyfeet.com,Brooks,3973,393,48,"$1,200"
+5/23/23,healthyfeet.com,Saucony,3146,280,28,"$1,120"
+5/23/23,healthyfeet.com,On Cloud,3031,300,25,"$1,375"
+5/23/23,healthyfeet.com,Nike,2394,181,19,$836
+5/23/23,healthyfeet.com,Reebok,2124,123,9,$315
+5/23/23,healthyfeet.com,New Balance,1869,134,10,$300
+5/23/23,healthyfeet.com,Adidas,1512,105,7,$189
+5/23/23,healthyfeet.com,Asics,1404,95,5,$75
+5/23/23,healthyfeet.com,Altra,1339,58,6,$168
+5/24/23,healthyfeet.com,Hoka,4962,531,30,"$1,440"
+5/24/23,healthyfeet.com,On Cloud,4115,448,47,"$2,585"
+5/24/23,healthyfeet.com,Brooks,3959,449,48,"$1,248"
+5/24/23,healthyfeet.com,Saucony,3736,347,32,"$1,344"
+5/24/23,healthyfeet.com,Nike,2600,232,24,"$1,152"
+5/24/23,healthyfeet.com,Reebok,2230,141,10,$420
+5/24/23,healthyfeet.com,Adidas,1779,97,9,$225
+5/24/23,healthyfeet.com,New Balance,1715,137,10,$300
+5/24/23,healthyfeet.com,Asics,1521,93,8,$264
+5/24/23,healthyfeet.com,Altra,1264,99,8,$240
+5/25/23,healthyfeet.com,Hoka,5129,491,41,"$2,050"
+5/25/23,healthyfeet.com,Brooks,4188,393,40,"$1,560"
+5/25/23,healthyfeet.com,Saucony,3488,300,32,"$1,344"
+5/25/23,healthyfeet.com,On Cloud,3387,290,28,"$1,540"
+5/25/23,healthyfeet.com,Nike,2533,143,16,$512
+5/25/23,healthyfeet.com,Reebok,2114,101,8,$392
+5/25/23,healthyfeet.com,New Balance,1896,124,8,$240
+5/25/23,healthyfeet.com,Adidas,1778,123,11,$198
+5/25/23,healthyfeet.com,Altra,1376,62,5,$150
+5/25/23,healthyfeet.com,Asics,1355,76,6,$210
+5/26/23,healthyfeet.com,Hoka,5234,597,42,"$2,310"
+5/26/23,healthyfeet.com,On Cloud,3970,432,32,"$1,760"
+5/26/23,healthyfeet.com,Brooks,3961,398,48,"$1,872"
+5/26/23,healthyfeet.com,Saucony,3201,284,29,"$1,160"
+5/26/23,healthyfeet.com,Reebok,2352,163,10,$360
+5/26/23,healthyfeet.com,Nike,2085,139,13,$650
+5/26/23,healthyfeet.com,New Balance,1799,125,7,$210
+5/26/23,healthyfeet.com,Adidas,1520,127,10,$250
+5/26/23,healthyfeet.com,Altra,1429,69,6,$156
+5/26/23,healthyfeet.com,Asics,1267,78,7,$175
+5/27/23,healthyfeet.com,Brooks,4103,346,33,$660
+5/27/23,healthyfeet.com,Hoka,4073,358,28,"$1,988"
+5/27/23,healthyfeet.com,Saucony,3130,234,25,"$1,050"
+5/27/23,healthyfeet.com,On Cloud,3079,237,20,"$1,100"
+5/27/23,healthyfeet.com,Nike,2436,211,22,"$1,012"
+5/27/23,healthyfeet.com,Reebok,2212,123,8,$224
+5/27/23,healthyfeet.com,New Balance,1880,108,7,$210
+5/27/23,healthyfeet.com,Adidas,1647,117,8,$336
+5/27/23,healthyfeet.com,Altra,1458,99,8,$168
+5/27/23,healthyfeet.com,Asics,1287,68,4,$88
+5/28/23,healthyfeet.com,Hoka,4359,456,29,"$1,827"
+5/28/23,healthyfeet.com,Brooks,4260,502,46,$920
+5/28/23,healthyfeet.com,Saucony,3950,335,35,"$1,470"
+5/28/23,healthyfeet.com,On Cloud,3626,315,33,"$1,815"
+5/28/23,healthyfeet.com,Nike,2421,151,16,$672
+5/28/23,healthyfeet.com,Reebok,2396,128,9,$243
+5/28/23,healthyfeet.com,Adidas,1576,136,12,$336
+5/28/23,healthyfeet.com,New Balance,1559,133,9,$270
+5/28/23,healthyfeet.com,Asics,1307,59,4,$116
+5/28/23,healthyfeet.com,Altra,1204,89,8,$224
+5/29/23,healthyfeet.com,Hoka,4081,420,37,"$1,702"
+5/29/23,healthyfeet.com,Saucony,3454,255,24,"$1,152"
+5/29/23,healthyfeet.com,On Cloud,3443,256,26,"$1,430"
+5/29/23,healthyfeet.com,Brooks,3250,308,34,"$1,258"
+5/29/23,healthyfeet.com,Reebok,2119,120,7,$231
+5/29/23,healthyfeet.com,Nike,1981,123,14,$462
+5/29/23,healthyfeet.com,Adidas,1947,138,9,$360
+5/29/23,healthyfeet.com,New Balance,1940,118,8,$240
+5/29/23,healthyfeet.com,Asics,1332,68,5,$80
+5/29/23,healthyfeet.com,Altra,1227,54,5,$165
+5/30/23,healthyfeet.com,Hoka,4451,527,28,"$1,904"
+5/30/23,healthyfeet.com,Brooks,3913,367,34,$952
+5/30/23,healthyfeet.com,Saucony,3806,297,29,"$1,218"
+5/30/23,healthyfeet.com,On Cloud,3367,278,28,"$1,540"
+5/30/23,healthyfeet.com,Reebok,2242,148,12,$396
+5/30/23,healthyfeet.com,Nike,2015,137,14,$602
+5/30/23,healthyfeet.com,Adidas,1707,125,11,$407
+5/30/23,healthyfeet.com,New Balance,1699,129,10,$300
+5/30/23,healthyfeet.com,Asics,1384,75,6,$168
+5/30/23,healthyfeet.com,Altra,1305,58,5,$150
+5/31/23,healthyfeet.com,Hoka,4212,414,29,"$1,972"
+5/31/23,healthyfeet.com,On Cloud,4164,297,30,"$1,650"
+5/31/23,healthyfeet.com,Brooks,3535,308,30,$630
+5/31/23,healthyfeet.com,Saucony,3304,234,23,"$1,012"
+5/31/23,healthyfeet.com,Reebok,2307,135,8,$280
+5/31/23,healthyfeet.com,Nike,1882,156,15,$900
+5/31/23,healthyfeet.com,New Balance,1837,141,12,$360
+5/31/23,healthyfeet.com,Adidas,1737,106,7,$175
+5/31/23,healthyfeet.com,Altra,1469,97,8,$192
+5/31/23,healthyfeet.com,Asics,1243,63,4,$136
+6/1/23,healthyfeet.com,Hoka,4561,475,36,"$2,628"
+6/1/23,healthyfeet.com,Brooks,4278,498,59,"$1,298"
+6/1/23,healthyfeet.com,Saucony,3987,337,36,"$1,692"
+6/1/23,healthyfeet.com,On Cloud,3018,298,29,"$1,595"
+6/1/23,healthyfeet.com,Reebok,2168,125,7,$322
+6/1/23,healthyfeet.com,Nike,1875,124,12,$540
+6/1/23,healthyfeet.com,New Balance,1840,104,6,$180
+6/1/23,healthyfeet.com,Adidas,1777,96,8,$216
+6/1/23,healthyfeet.com,Asics,1478,92,8,$208
+6/1/23,healthyfeet.com,Altra,1228,58,5,$100
+6/2/23,healthyfeet.com,Hoka,4372,464,37,"$2,738"
+6/2/23,healthyfeet.com,Brooks,4066,349,36,$900
+6/2/23,healthyfeet.com,On Cloud,3975,390,35,"$1,925"
+6/2/23,healthyfeet.com,Saucony,3285,296,33,"$1,518"
+6/2/23,healthyfeet.com,Nike,2554,210,21,$903
+6/2/23,healthyfeet.com,Reebok,2338,136,10,$380
+6/2/23,healthyfeet.com,New Balance,1858,99,7,$210
+6/2/23,healthyfeet.com,Adidas,1812,112,11,$396
+6/2/23,healthyfeet.com,Asics,1480,102,7,$154
+6/2/23,healthyfeet.com,Altra,1438,72,7,$217
+6/3/23,healthyfeet.com,On Cloud,4467,362,31,"$1,705"
+6/3/23,healthyfeet.com,Hoka,4293,501,39,"$2,184"
+6/3/23,healthyfeet.com,Brooks,4102,463,52,"$1,768"
+6/3/23,healthyfeet.com,Saucony,3251,179,20,$960
+6/3/23,healthyfeet.com,Reebok,2226,95,6,$234
+6/3/23,healthyfeet.com,Nike,1789,134,14,$728
+6/3/23,healthyfeet.com,New Balance,1777,102,8,$240
+6/3/23,healthyfeet.com,Adidas,1766,143,12,$192
+6/3/23,healthyfeet.com,Asics,1431,82,5,$140
+6/3/23,healthyfeet.com,Altra,1331,56,5,$130
+6/4/23,healthyfeet.com,Hoka,5296,437,37,"$2,368"
+6/4/23,healthyfeet.com,Saucony,4044,236,22,"$1,056"
+6/4/23,healthyfeet.com,Brooks,3853,433,40,"$1,280"
+6/4/23,healthyfeet.com,On Cloud,3316,309,30,"$1,650"
+6/4/23,healthyfeet.com,Reebok,2328,97,8,$224
+6/4/23,healthyfeet.com,Adidas,1974,173,12,$228
+6/4/23,healthyfeet.com,Nike,1959,171,17,$629
+6/4/23,healthyfeet.com,New Balance,1641,133,11,$330
+6/4/23,healthyfeet.com,Asics,1597,71,5,$175
+6/4/23,healthyfeet.com,Altra,1412,109,8,$232
+6/5/23,healthyfeet.com,Hoka,4259,389,32,"$1,824"
+6/5/23,healthyfeet.com,Brooks,4157,375,35,"$1,155"
+6/5/23,healthyfeet.com,Saucony,3765,259,24,"$1,200"
+6/5/23,healthyfeet.com,On Cloud,2967,269,21,"$1,155"
+6/5/23,healthyfeet.com,Nike,2057,150,15,$840
+6/5/23,healthyfeet.com,Reebok,2051,130,11,$484
+6/5/23,healthyfeet.com,New Balance,1784,118,8,$240
+6/5/23,healthyfeet.com,Adidas,1544,78,6,$162
+6/5/23,healthyfeet.com,Altra,1321,72,7,$154
+6/5/23,healthyfeet.com,Asics,1222,67,5,$90
+6/6/23,healthyfeet.com,Hoka,5355,513,46,"$3,358"
+6/6/23,healthyfeet.com,On Cloud,3804,383,42,"$2,310"
+6/6/23,healthyfeet.com,Saucony,3680,223,22,$946
+6/6/23,healthyfeet.com,Brooks,3306,311,32,$896
+6/6/23,healthyfeet.com,Reebok,2192,98,6,$210
+6/6/23,healthyfeet.com,Nike,1918,158,16,$576
+6/6/23,healthyfeet.com,New Balance,1761,138,10,$300
+6/6/23,healthyfeet.com,Adidas,1660,130,9,$306
+6/6/23,healthyfeet.com,Asics,1457,90,5,$105
+6/6/23,healthyfeet.com,Altra,1314,60,5,$125
+6/7/23,healthyfeet.com,Brooks,4212,443,53,"$1,166"
+6/7/23,healthyfeet.com,Hoka,3985,430,31,"$1,612"
+6/7/23,healthyfeet.com,Saucony,3878,227,24,"$1,104"
+6/7/23,healthyfeet.com,On Cloud,3440,266,22,"$1,210"
+6/7/23,healthyfeet.com,Reebok,2375,122,8,$320
+6/7/23,healthyfeet.com,Nike,2362,153,17,$986
+6/7/23,healthyfeet.com,New Balance,1899,105,6,$180
+6/7/23,healthyfeet.com,Adidas,1594,93,8,$352
+6/7/23,healthyfeet.com,Altra,1383,90,8,$192
+6/7/23,healthyfeet.com,Asics,1358,79,6,$180
+6/8/23,healthyfeet.com,Hoka,4816,532,28,"$1,932"
+6/8/23,healthyfeet.com,Brooks,4074,466,52,"$1,976"
+6/8/23,healthyfeet.com,Saucony,3926,353,39,"$1,560"
+6/8/23,healthyfeet.com,On Cloud,3552,407,35,"$1,925"
+6/8/23,healthyfeet.com,Nike,2393,177,18,$972
+6/8/23,healthyfeet.com,Reebok,2188,101,6,$174
+6/8/23,healthyfeet.com,New Balance,1961,157,10,$300
+6/8/23,healthyfeet.com,Adidas,1952,141,9,$225
+6/8/23,healthyfeet.com,Asics,1421,78,5,$175
+6/8/23,healthyfeet.com,Altra,1305,58,5,$125
+6/9/23,healthyfeet.com,Hoka,5361,443,34,"$1,564"
+6/9/23,healthyfeet.com,Brooks,3892,403,47,"$1,645"
+6/9/23,healthyfeet.com,On Cloud,3659,388,36,"$1,980"
+6/9/23,healthyfeet.com,Saucony,3402,262,26,"$1,248"
+6/9/23,healthyfeet.com,Nike,2111,164,17,$867
+6/9/23,healthyfeet.com,Reebok,2015,131,8,$400
+6/9/23,healthyfeet.com,Adidas,1847,165,11,$231
+6/9/23,healthyfeet.com,New Balance,1635,86,5,$150
+6/9/23,healthyfeet.com,Altra,1420,91,8,$272
+6/9/23,healthyfeet.com,Asics,1284,88,6,$180
+6/10/23,healthyfeet.com,Hoka,5077,577,42,"$3,024"
+6/10/23,healthyfeet.com,Brooks,4503,531,61,"$1,586"
+6/10/23,healthyfeet.com,On Cloud,3860,286,23,"$1,265"
+6/10/23,healthyfeet.com,Saucony,3422,323,33,"$1,617"
+6/10/23,healthyfeet.com,Nike,2423,156,18,$900
+6/10/23,healthyfeet.com,Reebok,2423,131,9,$333
+6/10/23,healthyfeet.com,Adidas,1945,115,9,$306
+6/10/23,healthyfeet.com,New Balance,1669,130,10,$300
+6/10/23,healthyfeet.com,Asics,1524,80,5,$155
+6/10/23,healthyfeet.com,Altra,1396,88,7,$210
+6/11/23,healthyfeet.com,Hoka,5301,425,26,"$1,872"
+6/11/23,healthyfeet.com,On Cloud,4064,421,32,"$1,760"
+6/11/23,healthyfeet.com,Brooks,3831,445,50,"$1,200"
+6/11/23,healthyfeet.com,Saucony,3293,186,21,$903
+6/11/23,healthyfeet.com,Reebok,2263,115,8,$280
+6/11/23,healthyfeet.com,Nike,2013,146,14,$672
+6/11/23,healthyfeet.com,New Balance,1942,155,12,$360
+6/11/23,healthyfeet.com,Adidas,1656,132,11,$341
+6/11/23,healthyfeet.com,Asics,1328,90,5,$105
+6/11/23,healthyfeet.com,Altra,1300,98,7,$203
+6/12/23,healthyfeet.com,Hoka,5256,525,42,"$2,940"
+6/12/23,healthyfeet.com,Saucony,3879,344,32,"$1,504"
+6/12/23,healthyfeet.com,Brooks,3522,384,43,"$1,290"
+6/12/23,healthyfeet.com,On Cloud,3258,369,41,"$2,255"
+6/12/23,healthyfeet.com,Nike,2600,137,16,$544
+6/12/23,healthyfeet.com,Reebok,2253,117,8,$232
+6/12/23,healthyfeet.com,New Balance,1854,155,10,$300
+6/12/23,healthyfeet.com,Adidas,1575,134,11,$429
+6/12/23,healthyfeet.com,Altra,1485,115,9,$279
+6/12/23,healthyfeet.com,Asics,1381,80,5,$155
+6/13/23,healthyfeet.com,Hoka,4749,450,40,"$2,080"
+6/13/23,healthyfeet.com,Saucony,3777,201,22,$968
+6/13/23,healthyfeet.com,On Cloud,3769,451,38,"$2,090"
+6/13/23,healthyfeet.com,Brooks,3727,392,44,"$1,188"
+6/13/23,healthyfeet.com,Reebok,2258,108,8,$296
+6/13/23,healthyfeet.com,Adidas,1989,178,15,$525
+6/13/23,healthyfeet.com,New Balance,1914,168,12,$360
+6/13/23,healthyfeet.com,Nike,1790,92,9,$414
+6/13/23,healthyfeet.com,Asics,1552,72,4,$140
+6/13/23,healthyfeet.com,Altra,1390,100,8,$224
+6/14/23,healthyfeet.com,Hoka,5103,509,33,"$2,013"
+6/14/23,healthyfeet.com,Brooks,3764,350,40,"$1,280"
+6/14/23,healthyfeet.com,On Cloud,3508,249,22,"$1,210"
+6/14/23,healthyfeet.com,Saucony,3439,283,32,"$1,472"
+6/14/23,healthyfeet.com,Nike,2504,148,15,$735
+6/14/23,healthyfeet.com,Reebok,2079,143,8,$280
+6/14/23,healthyfeet.com,Adidas,1615,142,12,$420
+6/14/23,healthyfeet.com,New Balance,1510,82,5,$150
+6/14/23,healthyfeet.com,Altra,1486,110,10,$330
+6/14/23,healthyfeet.com,Asics,1336,92,6,$198
+6/15/23,healthyfeet.com,Hoka,5181,425,29,"$1,450"
+6/15/23,healthyfeet.com,On Cloud,4242,427,41,"$2,255"
+6/15/23,healthyfeet.com,Brooks,4242,409,45,"$1,215"
+6/15/23,healthyfeet.com,Saucony,3280,321,34,"$1,394"
+6/15/23,healthyfeet.com,Reebok,2367,156,10,$320
+6/15/23,healthyfeet.com,Nike,2004,133,14,$602
+6/15/23,healthyfeet.com,Adidas,1628,146,11,$264
+6/15/23,healthyfeet.com,New Balance,1594,121,7,$210
+6/15/23,healthyfeet.com,Asics,1228,72,6,$192
+6/15/23,healthyfeet.com,Altra,1211,79,6,$168
+6/16/23,healthyfeet.com,Hoka,4176,346,31,"$1,829"
+6/16/23,healthyfeet.com,On Cloud,3705,431,42,"$2,310"
+6/16/23,healthyfeet.com,Brooks,3452,277,27,$810
+6/16/23,healthyfeet.com,Saucony,3420,273,27,"$1,242"
+6/16/23,healthyfeet.com,Reebok,2327,123,9,$279
+6/16/23,healthyfeet.com,Nike,2210,149,14,$448
+6/16/23,healthyfeet.com,New Balance,1826,144,8,$240
+6/16/23,healthyfeet.com,Adidas,1587,130,10,$240
+6/16/23,healthyfeet.com,Asics,1497,94,8,$168
+6/16/23,healthyfeet.com,Altra,1266,74,6,$198
+6/17/23,healthyfeet.com,Hoka,4367,496,40,"$2,240"
+6/17/23,healthyfeet.com,Brooks,3896,313,34,"$1,122"
+6/17/23,healthyfeet.com,Saucony,3361,205,20,$960
+6/17/23,healthyfeet.com,On Cloud,3154,372,36,"$1,980"
+6/17/23,healthyfeet.com,Reebok,2397,138,8,$264
+6/17/23,healthyfeet.com,Nike,1993,147,15,$900
+6/17/23,healthyfeet.com,New Balance,1641,132,8,$240
+6/17/23,healthyfeet.com,Adidas,1578,122,8,$192
+6/17/23,healthyfeet.com,Altra,1411,90,8,$192
+6/17/23,healthyfeet.com,Asics,1339,87,6,$102
+6/18/23,healthyfeet.com,Hoka,4581,368,27,"$1,566"
+6/18/23,healthyfeet.com,Saucony,4100,281,27,"$1,080"
+6/18/23,healthyfeet.com,On Cloud,4056,415,36,"$1,980"
+6/18/23,healthyfeet.com,Brooks,3982,422,42,"$1,260"
+6/18/23,healthyfeet.com,Nike,2288,149,16,$640
+6/18/23,healthyfeet.com,Reebok,2085,144,8,$264
+6/18/23,healthyfeet.com,Adidas,1948,125,11,$385
+6/18/23,healthyfeet.com,New Balance,1941,172,13,$390
+6/18/23,healthyfeet.com,Asics,1334,56,3,$48
+6/18/23,healthyfeet.com,Altra,1239,56,5,$160
+6/19/23,healthyfeet.com,Hoka,4636,528,45,"$3,195"
+6/19/23,healthyfeet.com,Saucony,3930,315,33,"$1,320"
+6/19/23,healthyfeet.com,Brooks,3331,309,35,"$1,295"
+6/19/23,healthyfeet.com,On Cloud,3160,315,23,"$1,265"
+6/19/23,healthyfeet.com,Reebok,2478,143,9,$324
+6/19/23,healthyfeet.com,Nike,2177,164,18,$648
+6/19/23,healthyfeet.com,Adidas,1764,112,10,$190
+6/19/23,healthyfeet.com,New Balance,1593,136,10,$300
+6/19/23,healthyfeet.com,Altra,1466,82,7,$182
+6/19/23,healthyfeet.com,Asics,1398,91,5,$130
+6/20/23,healthyfeet.com,Hoka,4553,408,34,"$2,414"
+6/20/23,healthyfeet.com,Brooks,4334,373,40,"$1,480"
+6/20/23,healthyfeet.com,Saucony,4131,300,28,"$1,204"
+6/20/23,healthyfeet.com,On Cloud,4007,340,30,"$1,650"
+6/20/23,healthyfeet.com,Reebok,2303,127,7,$196
+6/20/23,healthyfeet.com,Nike,1901,127,12,$504
+6/20/23,healthyfeet.com,New Balance,1863,114,8,$240
+6/20/23,healthyfeet.com,Adidas,1744,155,12,$468
+6/20/23,healthyfeet.com,Asics,1556,105,7,$245
+6/20/23,healthyfeet.com,Altra,1363,107,9,$216
+6/21/23,healthyfeet.com,Hoka,5115,475,39,"$2,106"
+6/21/23,healthyfeet.com,Brooks,3908,350,39,$780
+6/21/23,healthyfeet.com,On Cloud,3683,441,34,"$1,870"
+6/21/23,healthyfeet.com,Saucony,3273,284,29,"$1,363"
+6/21/23,healthyfeet.com,Reebok,2310,98,8,$304
+6/21/23,healthyfeet.com,Nike,2131,191,20,$720
+6/21/23,healthyfeet.com,Adidas,1989,156,10,$230
+6/21/23,healthyfeet.com,New Balance,1889,147,10,$300
+6/21/23,healthyfeet.com,Asics,1250,78,5,$105
+6/21/23,healthyfeet.com,Altra,1209,60,5,$130
+6/22/23,healthyfeet.com,Brooks,4312,470,54,"$1,836"
+6/22/23,healthyfeet.com,Hoka,4040,469,37,"$1,850"
+6/22/23,healthyfeet.com,Saucony,3878,328,36,"$1,548"
+6/22/23,healthyfeet.com,On Cloud,3783,294,24,"$1,320"
+6/22/23,healthyfeet.com,Reebok,2468,120,8,$384
+6/22/23,healthyfeet.com,New Balance,1929,145,8,$240
+6/22/23,healthyfeet.com,Adidas,1819,144,11,$495
+6/22/23,healthyfeet.com,Nike,1814,155,17,$935
+6/22/23,healthyfeet.com,Altra,1473,74,6,$186
+6/22/23,healthyfeet.com,Asics,1443,87,7,$182
+6/23/23,healthyfeet.com,Hoka,4957,589,45,"$2,520"
+6/23/23,healthyfeet.com,Saucony,3803,305,29,"$1,421"
+6/23/23,healthyfeet.com,Brooks,3801,362,39,"$1,404"
+6/23/23,healthyfeet.com,On Cloud,3316,386,31,"$1,705"
+6/23/23,healthyfeet.com,Reebok,2121,91,6,$156
+6/23/23,healthyfeet.com,Nike,1917,137,15,$450
+6/23/23,healthyfeet.com,Adidas,1830,104,9,$369
+6/23/23,healthyfeet.com,New Balance,1767,119,7,$210
+6/23/23,healthyfeet.com,Altra,1459,101,9,$207
+6/23/23,healthyfeet.com,Asics,1289,72,6,$126
+6/24/23,healthyfeet.com,Hoka,4808,576,50,"$3,150"
+6/24/23,healthyfeet.com,On Cloud,4288,421,33,"$1,815"
+6/24/23,healthyfeet.com,Brooks,4118,459,50,"$1,600"
+6/24/23,healthyfeet.com,Saucony,3588,324,35,"$1,680"
+6/24/23,healthyfeet.com,Nike,2242,148,14,$630
+6/24/23,healthyfeet.com,Reebok,2093,92,7,$287
+6/24/23,healthyfeet.com,Adidas,1868,149,13,$273
+6/24/23,healthyfeet.com,New Balance,1842,98,8,$240
+6/24/23,healthyfeet.com,Altra,1454,63,5,$155
+6/24/23,healthyfeet.com,Asics,1424,64,5,$125
+6/25/23,healthyfeet.com,Hoka,4474,518,33,"$2,442"
+6/25/23,healthyfeet.com,Brooks,4277,408,47,"$1,598"
+6/25/23,healthyfeet.com,Saucony,4142,389,37,"$1,628"
+6/25/23,healthyfeet.com,On Cloud,3107,357,36,"$1,980"
+6/25/23,healthyfeet.com,Reebok,2240,103,8,$368
+6/25/23,healthyfeet.com,Nike,2070,123,13,$416
+6/25/23,healthyfeet.com,New Balance,1988,141,11,$330
+6/25/23,healthyfeet.com,Adidas,1839,112,8,$312
+6/25/23,healthyfeet.com,Altra,1461,102,10,$330
+6/25/23,healthyfeet.com,Asics,1434,99,7,$231
+6/26/23,healthyfeet.com,On Cloud,4108,413,41,"$2,255"
+6/26/23,healthyfeet.com,Hoka,4095,357,25,"$1,525"
+6/26/23,healthyfeet.com,Saucony,3492,206,23,"$1,035"
+6/26/23,healthyfeet.com,Brooks,3440,297,33,"$1,320"
+6/26/23,healthyfeet.com,Reebok,2088,102,8,$208
+6/26/23,healthyfeet.com,Nike,1890,152,15,$735
+6/26/23,healthyfeet.com,New Balance,1798,110,9,$270
+6/26/23,healthyfeet.com,Adidas,1750,88,6,$102
+6/26/23,healthyfeet.com,Asics,1254,53,4,$92
+6/26/23,healthyfeet.com,Altra,1207,90,7,$147
+6/27/23,healthyfeet.com,Hoka,5027,582,46,"$3,312"
+6/27/23,healthyfeet.com,Saucony,3996,257,26,"$1,170"
+6/27/23,healthyfeet.com,On Cloud,3983,396,40,"$2,200"
+6/27/23,healthyfeet.com,Brooks,3875,341,36,$720
+6/27/23,healthyfeet.com,Nike,2588,208,22,"$1,144"
+6/27/23,healthyfeet.com,Reebok,2207,116,9,$387
+6/27/23,healthyfeet.com,Adidas,1790,142,10,$270
+6/27/23,healthyfeet.com,New Balance,1695,134,8,$240
+6/27/23,healthyfeet.com,Asics,1462,63,5,$170
+6/27/23,healthyfeet.com,Altra,1364,103,9,$243
+6/28/23,healthyfeet.com,Hoka,5354,551,39,"$2,223"
+6/28/23,healthyfeet.com,Brooks,4233,364,44,"$1,056"
+6/28/23,healthyfeet.com,Saucony,3579,214,24,$984
+6/28/23,healthyfeet.com,On Cloud,3433,387,37,"$2,035"
+6/28/23,healthyfeet.com,Reebok,2223,150,9,$414
+6/28/23,healthyfeet.com,Nike,2187,114,13,$572
+6/28/23,healthyfeet.com,New Balance,1633,147,10,$300
+6/28/23,healthyfeet.com,Adidas,1632,146,11,$308
+6/28/23,healthyfeet.com,Altra,1464,61,6,$144
+6/28/23,healthyfeet.com,Asics,1221,69,5,$110
+6/29/23,healthyfeet.com,Hoka,5220,620,48,"$2,544"
+6/29/23,healthyfeet.com,Brooks,4299,468,50,"$1,750"
+6/29/23,healthyfeet.com,Saucony,3975,397,38,"$1,672"
+6/29/23,healthyfeet.com,On Cloud,3839,279,31,"$1,705"
+6/29/23,healthyfeet.com,Reebok,2194,95,7,$343
+6/29/23,healthyfeet.com,Nike,2028,120,13,$663
+6/29/23,healthyfeet.com,Adidas,1864,102,7,$203
+6/29/23,healthyfeet.com,New Balance,1830,134,10,$300
+6/29/23,healthyfeet.com,Altra,1418,99,9,$279
+6/29/23,healthyfeet.com,Asics,1328,92,7,$203
+6/30/23,healthyfeet.com,Hoka,5312,568,47,"$2,115"
+6/30/23,healthyfeet.com,Brooks,4505,398,41,"$1,189"
+6/30/23,healthyfeet.com,On Cloud,4424,512,37,"$2,035"
+6/30/23,healthyfeet.com,Saucony,3558,229,25,"$1,125"
+6/30/23,healthyfeet.com,Nike,2591,230,26,"$1,144"
+6/30/23,healthyfeet.com,Reebok,2038,89,7,$322
+6/30/23,healthyfeet.com,New Balance,1802,120,9,$270
+6/30/23,healthyfeet.com,Adidas,1693,133,11,$451
+6/30/23,healthyfeet.com,Altra,1324,87,8,$232
+6/30/23,healthyfeet.com,Asics,1258,88,6,$192
+7/1/23,healthyfeet.com,Hoka,5262,553,50,"$3,700"
+7/1/23,healthyfeet.com,Saucony,4111,314,35,"$1,470"
+7/1/23,healthyfeet.com,Brooks,4007,472,48,"$1,152"
+7/1/23,healthyfeet.com,On Cloud,3689,269,28,"$1,540"
+7/1/23,healthyfeet.com,Nike,2197,197,19,$969
+7/1/23,healthyfeet.com,Reebok,2030,117,9,$441
+7/1/23,healthyfeet.com,New Balance,1988,174,10,$300
+7/1/23,healthyfeet.com,Adidas,1712,127,11,$264
+7/1/23,healthyfeet.com,Altra,1286,54,5,$175
+7/1/23,healthyfeet.com,Asics,1253,85,6,$120
+7/2/23,healthyfeet.com,Hoka,5023,486,39,"$2,808"
+7/2/23,healthyfeet.com,On Cloud,4136,486,50,"$2,750"
+7/2/23,healthyfeet.com,Saucony,3935,339,35,"$1,435"
+7/2/23,healthyfeet.com,Brooks,3545,363,42,$924
+7/2/23,healthyfeet.com,Nike,2297,147,16,$768
+7/2/23,healthyfeet.com,Reebok,2236,96,6,$234
+7/2/23,healthyfeet.com,New Balance,1976,143,8,$240
+7/2/23,healthyfeet.com,Adidas,1767,156,14,$350
+7/2/23,healthyfeet.com,Asics,1589,108,7,$140
+7/2/23,healthyfeet.com,Altra,1316,85,8,$176
+7/3/23,healthyfeet.com,Hoka,4066,465,39,"$2,613"
+7/3/23,healthyfeet.com,Brooks,3957,336,35,$735
+7/3/23,healthyfeet.com,On Cloud,3645,316,28,"$1,540"
+7/3/23,healthyfeet.com,Saucony,3487,215,22,"$1,100"
+7/3/23,healthyfeet.com,Nike,2061,166,19,$722
+7/3/23,healthyfeet.com,Reebok,2014,122,7,$315
+7/3/23,healthyfeet.com,Adidas,1961,105,7,$217
+7/3/23,healthyfeet.com,New Balance,1795,117,8,$240
+7/3/23,healthyfeet.com,Asics,1427,64,4,$124
+7/3/23,healthyfeet.com,Altra,1374,67,6,$198
+7/4/23,healthyfeet.com,Hoka,5109,447,38,"$1,748"
+7/4/23,healthyfeet.com,Brooks,4626,473,50,"$1,450"
+7/4/23,healthyfeet.com,Saucony,4022,291,30,"$1,260"
+7/4/23,healthyfeet.com,On Cloud,3136,354,26,"$1,430"
+7/4/23,healthyfeet.com,Reebok,2368,166,9,$234
+7/4/23,healthyfeet.com,Nike,2281,197,19,$760
+7/4/23,healthyfeet.com,Adidas,1947,169,13,$325
+7/4/23,healthyfeet.com,New Balance,1678,125,8,$240
+7/4/23,healthyfeet.com,Asics,1413,93,6,$102
+7/4/23,healthyfeet.com,Altra,1224,94,8,$232
+7/5/23,healthyfeet.com,Saucony,4104,222,21,"$1,029"
+7/5/23,healthyfeet.com,Hoka,4045,347,24,"$1,128"
+7/5/23,healthyfeet.com,On Cloud,3879,337,34,"$1,870"
+7/5/23,healthyfeet.com,Brooks,3633,342,36,"$1,332"
+7/5/23,healthyfeet.com,Nike,2376,191,19,"$1,083"
+7/5/23,healthyfeet.com,Reebok,2016,109,8,$336
+7/5/23,healthyfeet.com,New Balance,1625,95,7,$210
+7/5/23,healthyfeet.com,Adidas,1620,92,8,$216
+7/5/23,healthyfeet.com,Asics,1549,70,6,$186
+7/5/23,healthyfeet.com,Altra,1442,78,7,$147
+7/6/23,healthyfeet.com,Brooks,4541,444,48,"$1,152"
+7/6/23,healthyfeet.com,Hoka,4390,511,44,"$2,068"
+7/6/23,healthyfeet.com,On Cloud,4375,447,40,"$2,200"
+7/6/23,healthyfeet.com,Saucony,3757,325,34,"$1,598"
+7/6/23,healthyfeet.com,Reebok,2321,150,10,$330
+7/6/23,healthyfeet.com,Adidas,1875,136,11,$330
+7/6/23,healthyfeet.com,Nike,1861,119,13,$481
+7/6/23,healthyfeet.com,New Balance,1714,135,10,$300
+7/6/23,healthyfeet.com,Altra,1357,88,8,$272
+7/6/23,healthyfeet.com,Asics,1275,62,4,$124
+7/7/23,healthyfeet.com,Hoka,5375,607,43,"$1,935"
+7/7/23,healthyfeet.com,Brooks,4388,460,53,"$2,067"
+7/7/23,healthyfeet.com,Saucony,3795,313,31,"$1,519"
+7/7/23,healthyfeet.com,On Cloud,3580,372,27,"$1,485"
+7/7/23,healthyfeet.com,Reebok,2311,116,9,$315
+7/7/23,healthyfeet.com,Nike,1882,110,10,$420
+7/7/23,healthyfeet.com,New Balance,1659,141,11,$330
+7/7/23,healthyfeet.com,Adidas,1526,128,10,$190
+7/7/23,healthyfeet.com,Asics,1317,82,6,$114
+7/7/23,healthyfeet.com,Altra,1261,61,6,$162
+7/8/23,healthyfeet.com,Brooks,4617,514,47,"$1,410"
+7/8/23,healthyfeet.com,Hoka,4321,383,24,"$1,536"
+7/8/23,healthyfeet.com,Saucony,4190,393,39,"$1,716"
+7/8/23,healthyfeet.com,On Cloud,3551,276,24,"$1,320"
+7/8/23,healthyfeet.com,Reebok,2178,90,6,$156
+7/8/23,healthyfeet.com,Nike,1728,123,13,$520
+7/8/23,healthyfeet.com,Adidas,1722,94,9,$333
+7/8/23,healthyfeet.com,New Balance,1631,96,6,$180
+7/8/23,healthyfeet.com,Altra,1462,108,8,$160
+7/8/23,healthyfeet.com,Asics,1396,68,6,$102
+7/9/23,healthyfeet.com,Hoka,4718,496,40,"$2,280"
+7/9/23,healthyfeet.com,Brooks,4535,542,55,"$1,155"
+7/9/23,healthyfeet.com,Saucony,3776,336,37,"$1,776"
+7/9/23,healthyfeet.com,On Cloud,3595,263,26,"$1,430"
+7/9/23,healthyfeet.com,Reebok,2377,144,11,$451
+7/9/23,healthyfeet.com,New Balance,1996,117,9,$270
+7/9/23,healthyfeet.com,Nike,1953,106,10,$430
+7/9/23,healthyfeet.com,Adidas,1895,119,9,$171
+7/9/23,healthyfeet.com,Asics,1565,65,4,$100
+7/9/23,healthyfeet.com,Altra,1224,91,8,$192
+7/10/23,healthyfeet.com,On Cloud,4296,369,27,"$1,485"
+7/10/23,healthyfeet.com,Hoka,3995,329,22,"$1,496"
+7/10/23,healthyfeet.com,Brooks,3934,330,35,"$1,015"
+7/10/23,healthyfeet.com,Saucony,3621,350,39,"$1,755"
+7/10/23,healthyfeet.com,Reebok,2346,116,9,$378
+7/10/23,healthyfeet.com,Nike,2135,111,11,$341
+7/10/23,healthyfeet.com,New Balance,1875,103,9,$270
+7/10/23,healthyfeet.com,Adidas,1864,127,11,$451
+7/10/23,healthyfeet.com,Altra,1432,68,5,$130
+7/10/23,healthyfeet.com,Asics,1290,71,6,$210
+7/11/23,healthyfeet.com,Brooks,4082,436,49,"$1,960"
+7/11/23,healthyfeet.com,Hoka,4040,347,31,"$2,232"
+7/11/23,healthyfeet.com,Saucony,3877,207,21,"$1,008"
+7/11/23,healthyfeet.com,On Cloud,3105,372,38,"$2,090"
+7/11/23,healthyfeet.com,Reebok,2214,142,8,$216
+7/11/23,healthyfeet.com,New Balance,1799,120,8,$240
+7/11/23,healthyfeet.com,Nike,1760,155,16,$560
+7/11/23,healthyfeet.com,Adidas,1633,120,11,$264
+7/11/23,healthyfeet.com,Asics,1444,75,5,$140
+7/11/23,healthyfeet.com,Altra,1211,93,8,$216
+7/12/23,healthyfeet.com,Brooks,4671,513,56,"$1,344"
+7/12/23,healthyfeet.com,Hoka,4137,383,30,"$1,560"
+7/12/23,healthyfeet.com,Saucony,3710,292,28,"$1,232"
+7/12/23,healthyfeet.com,On Cloud,3566,411,30,"$1,650"
+7/12/23,healthyfeet.com,Nike,2186,134,15,$645
+7/12/23,healthyfeet.com,Reebok,2143,126,10,$250
+7/12/23,healthyfeet.com,New Balance,1964,149,10,$300
+7/12/23,healthyfeet.com,Adidas,1694,123,8,$192
+7/12/23,healthyfeet.com,Asics,1556,74,5,$85
+7/12/23,healthyfeet.com,Altra,1217,74,6,$168
+7/13/23,healthyfeet.com,Hoka,5206,433,34,"$1,904"
+7/13/23,healthyfeet.com,Brooks,4635,423,44,"$1,100"
+7/13/23,healthyfeet.com,Saucony,4007,308,33,"$1,617"
+7/13/23,healthyfeet.com,On Cloud,3335,344,31,"$1,705"
+7/13/23,healthyfeet.com,Nike,2336,154,16,$800
+7/13/23,healthyfeet.com,Reebok,2124,138,10,$470
+7/13/23,healthyfeet.com,Adidas,1874,158,12,$516
+7/13/23,healthyfeet.com,New Balance,1734,109,8,$240
+7/13/23,healthyfeet.com,Altra,1360,92,9,$306
+7/13/23,healthyfeet.com,Asics,1283,55,4,$92
+7/14/23,healthyfeet.com,Hoka,4439,514,32,"$1,472"
+7/14/23,healthyfeet.com,Brooks,4189,360,35,"$1,085"
+7/14/23,healthyfeet.com,Saucony,4178,361,37,"$1,517"
+7/14/23,healthyfeet.com,On Cloud,3476,331,27,"$1,485"
+7/14/23,healthyfeet.com,Nike,2269,122,14,$700
+7/14/23,healthyfeet.com,Reebok,2174,116,7,$315
+7/14/23,healthyfeet.com,New Balance,1695,102,6,$180
+7/14/23,healthyfeet.com,Adidas,1665,111,10,$270
+7/14/23,healthyfeet.com,Asics,1530,79,7,$196
+7/14/23,healthyfeet.com,Altra,1426,91,7,$217
+7/15/23,healthyfeet.com,Hoka,4197,371,30,"$1,680"
+7/15/23,healthyfeet.com,Brooks,3870,375,42,$924
+7/15/23,healthyfeet.com,Saucony,3756,216,20,$960
+7/15/23,healthyfeet.com,On Cloud,3365,335,34,"$1,870"
+7/15/23,healthyfeet.com,Nike,2562,202,21,"$1,260"
+7/15/23,healthyfeet.com,Reebok,2488,160,12,$372
+7/15/23,healthyfeet.com,Adidas,1610,141,9,$342
+7/15/23,healthyfeet.com,New Balance,1588,108,7,$210
+7/15/23,healthyfeet.com,Asics,1538,97,8,$216
+7/15/23,healthyfeet.com,Altra,1400,105,9,$234
+7/16/23,healthyfeet.com,Brooks,4235,380,37,"$1,369"
+7/16/23,healthyfeet.com,Hoka,4227,345,29,"$1,508"
+7/16/23,healthyfeet.com,Saucony,3822,208,19,$798
+7/16/23,healthyfeet.com,On Cloud,3524,284,22,"$1,210"
+7/16/23,healthyfeet.com,Reebok,2396,139,9,$261
+7/16/23,healthyfeet.com,Adidas,1874,152,11,$330
+7/16/23,healthyfeet.com,Nike,1853,116,12,$396
+7/16/23,healthyfeet.com,New Balance,1556,114,7,$210
+7/16/23,healthyfeet.com,Asics,1477,102,7,$140
+7/16/23,healthyfeet.com,Altra,1438,110,10,$320
+7/17/23,healthyfeet.com,Hoka,4830,554,41,"$2,419"
+7/17/23,healthyfeet.com,Saucony,4301,420,44,"$2,200"
+7/17/23,healthyfeet.com,Brooks,4181,384,46,"$1,748"
+7/17/23,healthyfeet.com,On Cloud,3548,359,29,"$1,595"
+7/17/23,healthyfeet.com,Nike,2309,206,23,$874
+7/17/23,healthyfeet.com,Reebok,2173,143,8,$384
+7/17/23,healthyfeet.com,New Balance,1714,103,8,$240
+7/17/23,healthyfeet.com,Adidas,1570,130,11,$418
+7/17/23,healthyfeet.com,Asics,1558,99,7,$245
+7/17/23,healthyfeet.com,Altra,1385,99,9,$297
+7/18/23,healthyfeet.com,Hoka,5464,550,49,"$2,401"
+7/18/23,healthyfeet.com,Saucony,4162,399,39,"$1,911"
+7/18/23,healthyfeet.com,Brooks,3970,398,38,"$1,216"
+7/18/23,healthyfeet.com,On Cloud,3488,419,38,"$2,090"
+7/18/23,healthyfeet.com,Reebok,2319,124,10,$330
+7/18/23,healthyfeet.com,Nike,1881,129,13,$754
+7/18/23,healthyfeet.com,Adidas,1800,149,12,$432
+7/18/23,healthyfeet.com,New Balance,1762,93,6,$180
+7/18/23,healthyfeet.com,Asics,1461,93,8,$272
+7/18/23,healthyfeet.com,Altra,1311,54,4,$84
+7/19/23,healthyfeet.com,Hoka,4932,474,41,"$2,993"
+7/19/23,healthyfeet.com,On Cloud,4078,462,43,"$2,365"
+7/19/23,healthyfeet.com,Brooks,3866,311,34,$850
+7/19/23,healthyfeet.com,Saucony,3672,298,33,"$1,518"
+7/19/23,healthyfeet.com,Reebok,2440,110,9,$369
+7/19/23,healthyfeet.com,Nike,2247,176,20,"$1,020"
+7/19/23,healthyfeet.com,Adidas,1744,99,7,$203
+7/19/23,healthyfeet.com,New Balance,1649,139,10,$300
+7/19/23,healthyfeet.com,Altra,1412,64,6,$126
+7/19/23,healthyfeet.com,Asics,1229,63,5,$80
+7/20/23,healthyfeet.com,Hoka,4128,385,20,"$1,000"
+7/20/23,healthyfeet.com,Saucony,3783,320,31,"$1,550"
+7/20/23,healthyfeet.com,On Cloud,3707,320,29,"$1,595"
+7/20/23,healthyfeet.com,Brooks,3569,420,50,"$1,350"
+7/20/23,healthyfeet.com,Nike,2567,231,24,"$1,152"
+7/20/23,healthyfeet.com,Reebok,2233,93,8,$232
+7/20/23,healthyfeet.com,New Balance,1937,150,9,$270
+7/20/23,healthyfeet.com,Adidas,1621,91,7,$133
+7/20/23,healthyfeet.com,Altra,1461,60,6,$168
+7/20/23,healthyfeet.com,Asics,1417,61,5,$115
+7/21/23,healthyfeet.com,Hoka,5180,568,43,"$2,666"
+7/21/23,healthyfeet.com,On Cloud,4558,381,39,"$2,145"
+7/21/23,healthyfeet.com,Saucony,3908,361,33,"$1,584"
+7/21/23,healthyfeet.com,Brooks,3887,465,50,"$1,000"
+7/21/23,healthyfeet.com,Reebok,2138,98,8,$384
+7/21/23,healthyfeet.com,Nike,1938,113,13,$468
+7/21/23,healthyfeet.com,Adidas,1819,137,12,$504
+7/21/23,healthyfeet.com,New Balance,1680,137,8,$240
+7/21/23,healthyfeet.com,Asics,1580,107,6,$138
+7/21/23,healthyfeet.com,Altra,1313,67,6,$162
+7/22/23,healthyfeet.com,Hoka,4576,475,39,"$2,184"
+7/22/23,healthyfeet.com,Brooks,4170,437,46,"$1,242"
+7/22/23,healthyfeet.com,Saucony,3425,316,33,"$1,452"
+7/22/23,healthyfeet.com,On Cloud,3152,304,30,"$1,650"
+7/22/23,healthyfeet.com,Reebok,2463,123,7,$287
+7/22/23,healthyfeet.com,Nike,1960,164,16,$784
+7/22/23,healthyfeet.com,Adidas,1683,119,9,$153
+7/22/23,healthyfeet.com,New Balance,1676,107,7,$210
+7/22/23,healthyfeet.com,Altra,1488,107,9,$225
+7/22/23,healthyfeet.com,Asics,1431,95,7,$168
+7/23/23,healthyfeet.com,Hoka,5154,452,38,"$2,128"
+7/23/23,healthyfeet.com,Brooks,3818,433,49,"$1,911"
+7/23/23,healthyfeet.com,Saucony,3785,250,27,"$1,188"
+7/23/23,healthyfeet.com,On Cloud,3469,364,38,"$2,090"
+7/23/23,healthyfeet.com,Nike,2426,181,18,$702
+7/23/23,healthyfeet.com,Reebok,2020,108,7,$224
+7/23/23,healthyfeet.com,Adidas,1774,147,11,$418
+7/23/23,healthyfeet.com,New Balance,1694,101,6,$180
+7/23/23,healthyfeet.com,Asics,1321,80,6,$138
+7/23/23,healthyfeet.com,Altra,1300,87,7,$154
+7/24/23,healthyfeet.com,Hoka,4207,353,30,"$2,190"
+7/24/23,healthyfeet.com,Saucony,3571,302,33,"$1,485"
+7/24/23,healthyfeet.com,Brooks,3542,294,35,$805
+7/24/23,healthyfeet.com,On Cloud,3428,262,26,"$1,430"
+7/24/23,healthyfeet.com,Reebok,2405,112,8,$368
+7/24/23,healthyfeet.com,Nike,2184,160,17,$697
+7/24/23,healthyfeet.com,Adidas,1840,163,11,$429
+7/24/23,healthyfeet.com,New Balance,1625,137,11,$330
+7/24/23,healthyfeet.com,Altra,1246,72,6,$132
+7/24/23,healthyfeet.com,Asics,1206,79,6,$120
+7/25/23,healthyfeet.com,Hoka,4790,429,32,"$1,664"
+7/25/23,healthyfeet.com,Brooks,3907,447,52,"$1,612"
+7/25/23,healthyfeet.com,Saucony,3432,323,36,"$1,656"
+7/25/23,healthyfeet.com,On Cloud,3252,386,33,"$1,815"
+7/25/23,healthyfeet.com,Nike,2367,129,13,$390
+7/25/23,healthyfeet.com,Reebok,2185,144,12,$312
+7/25/23,healthyfeet.com,Adidas,1771,99,8,$336
+7/25/23,healthyfeet.com,New Balance,1588,116,7,$210
+7/25/23,healthyfeet.com,Asics,1500,89,7,$161
+7/25/23,healthyfeet.com,Altra,1476,91,7,$161
+7/26/23,healthyfeet.com,Hoka,4099,388,28,"$1,344"
+7/26/23,healthyfeet.com,Brooks,4046,392,41,"$1,517"
+7/26/23,healthyfeet.com,Saucony,3973,238,26,"$1,170"
+7/26/23,healthyfeet.com,On Cloud,3268,295,24,"$1,320"
+7/26/23,healthyfeet.com,Reebok,2401,139,8,$368
+7/26/23,healthyfeet.com,Nike,1907,134,15,$885
+7/26/23,healthyfeet.com,Adidas,1810,137,11,$495
+7/26/23,healthyfeet.com,New Balance,1677,126,11,$330
+7/26/23,healthyfeet.com,Altra,1477,104,8,$232
+7/26/23,healthyfeet.com,Asics,1297,83,6,$174
+7/27/23,healthyfeet.com,Brooks,4709,542,50,"$1,450"
+7/27/23,healthyfeet.com,Hoka,4264,393,25,"$1,550"
+7/27/23,healthyfeet.com,Saucony,3951,316,30,"$1,260"
+7/27/23,healthyfeet.com,On Cloud,3720,364,33,"$1,815"
+7/27/23,healthyfeet.com,Nike,2476,136,14,$658
+7/27/23,healthyfeet.com,Reebok,2007,126,10,$390
+7/27/23,healthyfeet.com,New Balance,1843,142,10,$300
+7/27/23,healthyfeet.com,Adidas,1706,142,9,$351
+7/27/23,healthyfeet.com,Asics,1549,70,6,$210
+7/27/23,healthyfeet.com,Altra,1500,99,9,$279
+7/28/23,healthyfeet.com,Brooks,4419,354,36,"$1,296"
+7/28/23,healthyfeet.com,Saucony,4166,273,29,"$1,247"
+7/28/23,healthyfeet.com,Hoka,4154,397,25,"$1,800"
+7/28/23,healthyfeet.com,On Cloud,3088,304,23,"$1,265"
+7/28/23,healthyfeet.com,Nike,2294,181,19,"$1,083"
+7/28/23,healthyfeet.com,Reebok,2024,139,9,$450
+7/28/23,healthyfeet.com,Adidas,1716,135,10,$300
+7/28/23,healthyfeet.com,Asics,1586,105,6,$102
+7/28/23,healthyfeet.com,New Balance,1584,137,11,$330
+7/28/23,healthyfeet.com,Altra,1271,81,7,$189
+7/29/23,healthyfeet.com,Hoka,5049,552,47,"$3,337"
+7/29/23,healthyfeet.com,Saucony,3823,278,30,"$1,200"
+7/29/23,healthyfeet.com,Brooks,3646,297,35,$805
+7/29/23,healthyfeet.com,On Cloud,3528,357,29,"$1,595"
+7/29/23,healthyfeet.com,Nike,2321,138,13,$611
+7/29/23,healthyfeet.com,Reebok,2151,115,8,$336
+7/29/23,healthyfeet.com,Adidas,1787,146,12,$192
+7/29/23,healthyfeet.com,New Balance,1524,124,7,$210
+7/29/23,healthyfeet.com,Asics,1448,70,4,$92
+7/29/23,healthyfeet.com,Altra,1376,95,8,$256
+7/30/23,healthyfeet.com,Hoka,5190,438,27,"$1,728"
+7/30/23,healthyfeet.com,Brooks,4695,445,42,"$1,176"
+7/30/23,healthyfeet.com,On Cloud,4341,413,46,"$2,530"
+7/30/23,healthyfeet.com,Saucony,3897,307,32,"$1,408"
+7/30/23,healthyfeet.com,Reebok,2362,118,7,$343
+7/30/23,healthyfeet.com,Nike,2101,167,17,$561
+7/30/23,healthyfeet.com,New Balance,1808,128,10,$300
+7/30/23,healthyfeet.com,Adidas,1615,114,7,$175
+7/30/23,healthyfeet.com,Asics,1466,69,6,$102
+7/30/23,healthyfeet.com,Altra,1291,55,5,$150
+7/31/23,healthyfeet.com,Hoka,4677,468,38,"$1,862"
+7/31/23,healthyfeet.com,On Cloud,4156,495,44,"$2,420"
+7/31/23,healthyfeet.com,Brooks,3781,384,38,$950
+7/31/23,healthyfeet.com,Saucony,3688,195,20,$940
+7/31/23,healthyfeet.com,Nike,2294,160,16,$816
+7/31/23,healthyfeet.com,Reebok,2094,126,10,$340
+7/31/23,healthyfeet.com,Adidas,1816,102,8,$184
+7/31/23,healthyfeet.com,New Balance,1695,101,7,$210
+7/31/23,healthyfeet.com,Asics,1495,63,5,$165
+7/31/23,healthyfeet.com,Altra,1405,105,9,$252
+8/1/23,healthyfeet.com,Hoka,5362,595,45,"$3,015"
+8/1/23,healthyfeet.com,Brooks,3773,403,47,"$1,739"
+8/1/23,healthyfeet.com,Saucony,3702,326,31,"$1,333"
+8/1/23,healthyfeet.com,On Cloud,3395,390,39,"$2,145"
+8/1/23,healthyfeet.com,Nike,2456,220,24,$768
+8/1/23,healthyfeet.com,Reebok,2226,99,6,$240
+8/1/23,healthyfeet.com,Adidas,1748,95,7,$175
+8/1/23,healthyfeet.com,New Balance,1698,132,7,$210
+8/1/23,healthyfeet.com,Asics,1368,80,7,$168
+8/1/23,healthyfeet.com,Altra,1360,93,8,$248
+8/2/23,healthyfeet.com,Hoka,4929,507,28,"$1,792"
+8/2/23,healthyfeet.com,Brooks,4292,489,51,"$1,122"
+8/2/23,healthyfeet.com,Saucony,4220,390,42,"$1,974"
+8/2/23,healthyfeet.com,On Cloud,3866,399,36,"$1,980"
+8/2/23,healthyfeet.com,Reebok,2410,145,9,$396
+8/2/23,healthyfeet.com,Nike,2078,175,16,$576
+8/2/23,healthyfeet.com,New Balance,1969,167,13,$390
+8/2/23,healthyfeet.com,Adidas,1720,102,7,$133
+8/2/23,healthyfeet.com,Asics,1562,77,6,$168
+8/2/23,healthyfeet.com,Altra,1238,68,6,$150
+8/3/23,healthyfeet.com,Hoka,5186,496,41,"$2,706"
+8/3/23,healthyfeet.com,Brooks,4778,483,52,"$1,872"
+8/3/23,healthyfeet.com,On Cloud,3846,313,30,"$1,650"
+8/3/23,healthyfeet.com,Saucony,3760,237,26,"$1,196"
+8/3/23,healthyfeet.com,Reebok,2309,124,8,$240
+8/3/23,healthyfeet.com,Nike,1956,161,17,$782
+8/3/23,healthyfeet.com,New Balance,1800,155,9,$270
+8/3/23,healthyfeet.com,Adidas,1656,131,9,$162
+8/3/23,healthyfeet.com,Asics,1510,67,5,$150
+8/3/23,healthyfeet.com,Altra,1368,102,9,$288
+8/4/23,healthyfeet.com,Brooks,4696,557,66,"$2,178"
+8/4/23,healthyfeet.com,Hoka,4634,447,25,"$1,375"
+8/4/23,healthyfeet.com,On Cloud,4610,440,33,"$1,815"
+8/4/23,healthyfeet.com,Saucony,4085,318,33,"$1,485"
+8/4/23,healthyfeet.com,Reebok,2183,99,6,$264
+8/4/23,healthyfeet.com,Nike,1830,156,16,$512
+8/4/23,healthyfeet.com,Adidas,1760,96,9,$171
+8/4/23,healthyfeet.com,New Balance,1692,144,8,$240
+8/4/23,healthyfeet.com,Altra,1394,81,7,$217
+8/4/23,healthyfeet.com,Asics,1322,79,6,$150
+8/5/23,healthyfeet.com,Hoka,5298,496,31,"$2,325"
+8/5/23,healthyfeet.com,On Cloud,3876,412,39,"$2,145"
+8/5/23,healthyfeet.com,Saucony,3847,357,35,"$1,610"
+8/5/23,healthyfeet.com,Brooks,3634,429,46,"$1,518"
+8/5/23,healthyfeet.com,Nike,2488,183,18,$990
+8/5/23,healthyfeet.com,Reebok,2483,138,9,$396
+8/5/23,healthyfeet.com,Adidas,1779,117,8,$144
+8/5/23,healthyfeet.com,New Balance,1762,154,11,$330
+8/5/23,healthyfeet.com,Asics,1436,65,4,$108
+8/5/23,healthyfeet.com,Altra,1217,56,5,$105
+8/6/23,healthyfeet.com,Hoka,5472,454,39,"$2,340"
+8/6/23,healthyfeet.com,Brooks,4582,374,35,$805
+8/6/23,healthyfeet.com,Saucony,4211,353,39,"$1,911"
+8/6/23,healthyfeet.com,On Cloud,3978,330,24,"$1,320"
+8/6/23,healthyfeet.com,Reebok,2467,159,9,$297
+8/6/23,healthyfeet.com,Adidas,1980,168,12,$396
+8/6/23,healthyfeet.com,Nike,1725,135,14,$434
+8/6/23,healthyfeet.com,New Balance,1598,126,8,$240
+8/6/23,healthyfeet.com,Altra,1434,99,9,$279
+8/6/23,healthyfeet.com,Asics,1304,67,4,$96
+8/7/23,healthyfeet.com,Hoka,5529,586,38,"$2,052"
+8/7/23,healthyfeet.com,Saucony,4354,392,43,"$1,849"
+8/7/23,healthyfeet.com,Brooks,3578,394,40,"$1,000"
+8/7/23,healthyfeet.com,On Cloud,3333,327,26,"$1,430"
+8/7/23,healthyfeet.com,Reebok,2298,100,8,$400
+8/7/23,healthyfeet.com,Nike,1895,112,11,$649
+8/7/23,healthyfeet.com,Adidas,1697,102,9,$234
+8/7/23,healthyfeet.com,New Balance,1617,110,6,$180
+8/7/23,healthyfeet.com,Asics,1430,97,6,$168
+8/7/23,healthyfeet.com,Altra,1429,65,6,$210
+8/8/23,healthyfeet.com,Hoka,4874,518,37,"$2,738"
+8/8/23,healthyfeet.com,Brooks,4551,500,47,"$1,504"
+8/8/23,healthyfeet.com,Saucony,4353,420,39,"$1,872"
+8/8/23,healthyfeet.com,On Cloud,3881,307,24,"$1,320"
+8/8/23,healthyfeet.com,Reebok,2058,138,8,$304
+8/8/23,healthyfeet.com,Nike,1734,142,15,$450
+8/8/23,healthyfeet.com,New Balance,1710,152,8,$240
+8/8/23,healthyfeet.com,Adidas,1571,93,7,$280
+8/8/23,healthyfeet.com,Asics,1546,92,5,$75
+8/8/23,healthyfeet.com,Altra,1339,77,6,$180
+8/9/23,healthyfeet.com,Hoka,5032,417,30,"$1,950"
+8/9/23,healthyfeet.com,On Cloud,4511,518,55,"$3,025"
+8/9/23,healthyfeet.com,Saucony,3956,379,38,"$1,748"
+8/9/23,healthyfeet.com,Brooks,3837,457,42,"$1,512"
+8/9/23,healthyfeet.com,Nike,2498,131,13,$767
+8/9/23,healthyfeet.com,Reebok,2441,143,11,$407
+8/9/23,healthyfeet.com,Adidas,1663,93,8,$328
+8/9/23,healthyfeet.com,New Balance,1615,96,6,$180
+8/9/23,healthyfeet.com,Asics,1286,55,5,$125
+8/9/23,healthyfeet.com,Altra,1263,57,5,$175
+8/10/23,healthyfeet.com,Hoka,5111,567,33,"$1,980"
+8/10/23,healthyfeet.com,On Cloud,4602,329,35,"$1,925"
+8/10/23,healthyfeet.com,Brooks,4449,449,54,"$1,512"
+8/10/23,healthyfeet.com,Saucony,4038,350,39,"$1,794"
+8/10/23,healthyfeet.com,Reebok,2355,111,7,$315
+8/10/23,healthyfeet.com,Nike,1957,99,11,$484
+8/10/23,healthyfeet.com,Adidas,1882,104,8,$352
+8/10/23,healthyfeet.com,New Balance,1768,150,8,$240
+8/10/23,healthyfeet.com,Altra,1485,106,9,$216
+8/10/23,healthyfeet.com,Asics,1258,54,4,$64
+8/11/23,healthyfeet.com,Hoka,4962,468,33,"$1,518"
+8/11/23,healthyfeet.com,On Cloud,4029,360,34,"$1,870"
+8/11/23,healthyfeet.com,Brooks,3846,328,33,"$1,155"
+8/11/23,healthyfeet.com,Saucony,3599,229,25,"$1,200"
+8/11/23,healthyfeet.com,Reebok,2429,130,9,$387
+8/11/23,healthyfeet.com,Adidas,1945,169,13,$403
+8/11/23,healthyfeet.com,Nike,1846,159,17,$850
+8/11/23,healthyfeet.com,New Balance,1798,96,6,$180
+8/11/23,healthyfeet.com,Asics,1546,64,5,$165
+8/11/23,healthyfeet.com,Altra,1303,79,6,$150
+8/12/23,healthyfeet.com,Hoka,5283,603,47,"$3,102"
+8/12/23,healthyfeet.com,On Cloud,4397,322,29,"$1,595"
+8/12/23,healthyfeet.com,Brooks,4157,486,50,"$2,000"
+8/12/23,healthyfeet.com,Saucony,3531,319,30,"$1,230"
+8/12/23,healthyfeet.com,Reebok,2065,127,10,$280
+8/12/23,healthyfeet.com,Nike,1984,152,17,$867
+8/12/23,healthyfeet.com,New Balance,1824,162,10,$300
+8/12/23,healthyfeet.com,Adidas,1516,92,9,$162
+8/12/23,healthyfeet.com,Asics,1343,75,6,$108
+8/12/23,healthyfeet.com,Altra,1340,54,5,$105
+8/13/23,healthyfeet.com,Hoka,5147,415,37,"$2,257"
+8/13/23,healthyfeet.com,Brooks,4596,378,45,"$1,125"
+8/13/23,healthyfeet.com,Saucony,3874,219,20,"$1,000"
+8/13/23,healthyfeet.com,On Cloud,3171,368,28,"$1,540"
+8/13/23,healthyfeet.com,Nike,2322,197,21,"$1,071"
+8/13/23,healthyfeet.com,Reebok,2176,142,8,$400
+8/13/23,healthyfeet.com,New Balance,1773,129,7,$210
+8/13/23,healthyfeet.com,Adidas,1684,101,8,$176
+8/13/23,healthyfeet.com,Altra,1489,106,9,$297
+8/13/23,healthyfeet.com,Asics,1466,94,7,$189
+8/14/23,healthyfeet.com,Hoka,5344,452,37,"$1,739"
+8/14/23,healthyfeet.com,Brooks,4766,452,52,"$1,456"
+8/14/23,healthyfeet.com,Saucony,4277,307,33,"$1,551"
+8/14/23,healthyfeet.com,On Cloud,3949,407,44,"$2,420"
+8/14/23,healthyfeet.com,Nike,2438,140,13,$403
+8/14/23,healthyfeet.com,Reebok,2272,123,8,$384
+8/14/23,healthyfeet.com,New Balance,1671,137,9,$270
+8/14/23,healthyfeet.com,Adidas,1647,106,9,$144
+8/14/23,healthyfeet.com,Asics,1557,107,7,$182
+8/14/23,healthyfeet.com,Altra,1379,101,8,$232
+8/15/23,healthyfeet.com,Hoka,5175,424,32,"$1,760"
+8/15/23,healthyfeet.com,Brooks,4774,561,61,"$2,379"
+8/15/23,healthyfeet.com,Saucony,3556,256,27,"$1,161"
+8/15/23,healthyfeet.com,On Cloud,3509,313,28,"$1,540"
+8/15/23,healthyfeet.com,Nike,2264,116,12,$480
+8/15/23,healthyfeet.com,Reebok,2135,128,7,$217
+8/15/23,healthyfeet.com,Adidas,1933,102,8,$184
+8/15/23,healthyfeet.com,New Balance,1797,103,7,$210
+8/15/23,healthyfeet.com,Altra,1349,57,5,$100
+8/15/23,healthyfeet.com,Asics,1279,88,6,$108
+8/16/23,healthyfeet.com,Hoka,4645,397,22,"$1,210"
+8/16/23,healthyfeet.com,Saucony,4264,245,27,"$1,161"
+8/16/23,healthyfeet.com,Brooks,4094,338,31,$961
+8/16/23,healthyfeet.com,On Cloud,3510,373,35,"$1,925"
+8/16/23,healthyfeet.com,Reebok,2446,156,12,$384
+8/16/23,healthyfeet.com,Nike,2114,136,15,$855
+8/16/23,healthyfeet.com,Adidas,1707,108,7,$252
+8/16/23,healthyfeet.com,New Balance,1630,137,10,$300
+8/16/23,healthyfeet.com,Asics,1525,101,7,$245
+8/16/23,healthyfeet.com,Altra,1322,55,4,$84
+8/17/23,healthyfeet.com,Hoka,4920,409,27,"$1,323"
+8/17/23,healthyfeet.com,Saucony,4210,417,39,"$1,716"
+8/17/23,healthyfeet.com,On Cloud,3814,402,31,"$1,705"
+8/17/23,healthyfeet.com,Brooks,3682,409,38,"$1,026"
+8/17/23,healthyfeet.com,Reebok,2182,105,8,$392
+8/17/23,healthyfeet.com,New Balance,1969,130,10,$300
+8/17/23,healthyfeet.com,Adidas,1924,122,10,$180
+8/17/23,healthyfeet.com,Nike,1685,98,11,$407
+8/17/23,healthyfeet.com,Asics,1528,100,8,$160
+8/17/23,healthyfeet.com,Altra,1308,104,9,$243
+8/18/23,healthyfeet.com,Hoka,5546,591,34,"$2,074"
+8/18/23,healthyfeet.com,Brooks,4290,399,41,$943
+8/18/23,healthyfeet.com,Saucony,4047,397,43,"$1,763"
+8/18/23,healthyfeet.com,On Cloud,3602,359,31,"$1,705"
+8/18/23,healthyfeet.com,Reebok,2389,166,11,$484
+8/18/23,healthyfeet.com,Nike,1926,132,14,$798
+8/18/23,healthyfeet.com,Adidas,1746,145,10,$450
+8/18/23,healthyfeet.com,Asics,1557,79,6,$156
+8/18/23,healthyfeet.com,New Balance,1530,131,8,$240
+8/18/23,healthyfeet.com,Altra,1383,69,6,$162
+8/19/23,healthyfeet.com,On Cloud,4532,542,53,"$2,915"
+8/19/23,healthyfeet.com,Saucony,4376,277,27,"$1,242"
+8/19/23,healthyfeet.com,Hoka,4095,405,23,"$1,242"
+8/19/23,healthyfeet.com,Brooks,3773,345,36,$828
+8/19/23,healthyfeet.com,Nike,2351,196,22,$704
+8/19/23,healthyfeet.com,Reebok,2164,138,11,$429
+8/19/23,healthyfeet.com,Adidas,1588,91,8,$256
+8/19/23,healthyfeet.com,New Balance,1538,117,9,$270
+8/19/23,healthyfeet.com,Altra,1326,99,9,$234
+8/19/23,healthyfeet.com,Asics,1225,64,4,$80
+8/20/23,healthyfeet.com,Hoka,4880,507,34,"$2,448"
+8/20/23,healthyfeet.com,On Cloud,4623,429,32,"$1,760"
+8/20/23,healthyfeet.com,Brooks,4284,392,43,$903
+8/20/23,healthyfeet.com,Saucony,4213,370,35,"$1,680"
+8/20/23,healthyfeet.com,Reebok,2359,141,8,$216
+8/20/23,healthyfeet.com,Nike,2270,118,13,$403
+8/20/23,healthyfeet.com,New Balance,1729,134,7,$210
+8/20/23,healthyfeet.com,Adidas,1508,110,8,$280
+8/20/23,healthyfeet.com,Asics,1447,92,7,$154
+8/20/23,healthyfeet.com,Altra,1412,62,6,$120
+8/21/23,healthyfeet.com,Hoka,4647,529,29,"$1,740"
+8/21/23,healthyfeet.com,Brooks,4607,418,48,"$1,584"
+8/21/23,healthyfeet.com,On Cloud,4525,395,38,"$2,090"
+8/21/23,healthyfeet.com,Saucony,4129,351,37,"$1,665"
+8/21/23,healthyfeet.com,Reebok,2203,120,8,$248
+8/21/23,healthyfeet.com,Nike,1880,113,11,$550
+8/21/23,healthyfeet.com,Adidas,1659,95,8,$200
+8/21/23,healthyfeet.com,New Balance,1597,141,11,$330
+8/21/23,healthyfeet.com,Altra,1462,78,7,$154
+8/21/23,healthyfeet.com,Asics,1348,85,5,$120
+8/22/23,healthyfeet.com,Hoka,4474,404,37,"$2,368"
+8/22/23,healthyfeet.com,Saucony,4115,207,22,"$1,012"
+8/22/23,healthyfeet.com,On Cloud,4085,425,36,"$1,980"
+8/22/23,healthyfeet.com,Brooks,3539,301,35,"$1,225"
+8/22/23,healthyfeet.com,Reebok,2205,111,8,$368
+8/22/23,healthyfeet.com,Adidas,1933,170,11,$352
+8/22/23,healthyfeet.com,Nike,1702,147,16,$672
+8/22/23,healthyfeet.com,New Balance,1645,115,8,$240
+8/22/23,healthyfeet.com,Asics,1476,81,6,$210
+8/22/23,healthyfeet.com,Altra,1357,107,9,$189
+8/23/23,healthyfeet.com,Hoka,4720,402,23,"$1,357"
+8/23/23,healthyfeet.com,On Cloud,4697,453,46,"$2,530"
+8/23/23,healthyfeet.com,Brooks,4672,534,58,"$1,392"
+8/23/23,healthyfeet.com,Saucony,4403,275,27,"$1,323"
+8/23/23,healthyfeet.com,Reebok,2021,129,10,$300
+8/23/23,healthyfeet.com,Adidas,1890,134,11,$418
+8/23/23,healthyfeet.com,Nike,1758,139,15,$840
+8/23/23,healthyfeet.com,New Balance,1607,123,10,$300
+8/23/23,healthyfeet.com,Asics,1597,102,8,$240
+8/23/23,healthyfeet.com,Altra,1358,64,5,$155
+8/24/23,healthyfeet.com,Hoka,5189,491,33,"$1,815"
+8/24/23,healthyfeet.com,Brooks,4563,426,40,$800
+8/24/23,healthyfeet.com,On Cloud,4333,471,43,"$2,365"
+8/24/23,healthyfeet.com,Saucony,4325,409,41,"$1,845"
+8/24/23,healthyfeet.com,Reebok,2352,138,9,$324
+8/24/23,healthyfeet.com,Nike,2284,151,15,$645
+8/24/23,healthyfeet.com,Adidas,1658,125,9,$189
+8/24/23,healthyfeet.com,New Balance,1590,111,8,$240
+8/24/23,healthyfeet.com,Asics,1520,62,4,$88
+8/24/23,healthyfeet.com,Altra,1277,66,5,$150
+8/25/23,healthyfeet.com,Hoka,5368,589,33,"$2,112"
+8/25/23,healthyfeet.com,Brooks,4535,473,55,"$2,090"
+8/25/23,healthyfeet.com,Saucony,4432,301,32,"$1,568"
+8/25/23,healthyfeet.com,On Cloud,3860,278,23,"$1,265"
+8/25/23,healthyfeet.com,Reebok,2467,111,8,$400
+8/25/23,healthyfeet.com,Nike,2166,187,18,$594
+8/25/23,healthyfeet.com,Adidas,1980,116,9,$234
+8/25/23,healthyfeet.com,New Balance,1677,150,9,$270
+8/25/23,healthyfeet.com,Altra,1478,102,9,$189
+8/25/23,healthyfeet.com,Asics,1240,79,5,$160
+8/26/23,healthyfeet.com,Brooks,4707,451,49,"$1,225"
+8/26/23,healthyfeet.com,Hoka,4550,384,22,"$1,320"
+8/26/23,healthyfeet.com,Saucony,4005,291,27,"$1,107"
+8/26/23,healthyfeet.com,On Cloud,3961,351,35,"$1,925"
+8/26/23,healthyfeet.com,Nike,2425,157,18,$810
+8/26/23,healthyfeet.com,Reebok,2231,135,7,$196
+8/26/23,healthyfeet.com,New Balance,1913,152,10,$300
+8/26/23,healthyfeet.com,Adidas,1582,106,8,$128
+8/26/23,healthyfeet.com,Asics,1429,69,5,$155
+8/26/23,healthyfeet.com,Altra,1244,85,7,$175
+8/27/23,healthyfeet.com,Hoka,5066,602,33,"$2,409"
+8/27/23,healthyfeet.com,Saucony,4224,418,44,"$1,804"
+8/27/23,healthyfeet.com,On Cloud,3921,301,23,"$1,265"
+8/27/23,healthyfeet.com,Brooks,3569,311,34,$918
+8/27/23,healthyfeet.com,Nike,2458,146,16,$832
+8/27/23,healthyfeet.com,Reebok,2183,140,8,$352
+8/27/23,healthyfeet.com,Adidas,1762,92,6,$252
+8/27/23,healthyfeet.com,New Balance,1693,149,10,$300
+8/27/23,healthyfeet.com,Asics,1444,88,8,$232
+8/27/23,healthyfeet.com,Altra,1276,65,5,$155
+8/28/23,healthyfeet.com,Hoka,4744,508,29,"$1,566"
+8/28/23,healthyfeet.com,Brooks,4607,385,37,"$1,110"
+8/28/23,healthyfeet.com,Saucony,3980,296,29,"$1,392"
+8/28/23,healthyfeet.com,On Cloud,3245,277,30,"$1,650"
+8/28/23,healthyfeet.com,Reebok,2455,149,9,$225
+8/28/23,healthyfeet.com,Nike,2047,106,11,$341
+8/28/23,healthyfeet.com,Adidas,1880,116,11,$462
+8/28/23,healthyfeet.com,New Balance,1841,123,10,$300
+8/28/23,healthyfeet.com,Asics,1382,69,4,$104
+8/28/23,healthyfeet.com,Altra,1280,75,6,$132
+8/29/23,healthyfeet.com,Hoka,5359,443,32,"$1,792"
+8/29/23,healthyfeet.com,Saucony,4299,375,41,"$1,681"
+8/29/23,healthyfeet.com,On Cloud,3796,345,29,"$1,595"
+8/29/23,healthyfeet.com,Brooks,3742,310,33,"$1,320"
+8/29/23,healthyfeet.com,Reebok,2180,145,10,$440
+8/29/23,healthyfeet.com,Nike,1902,138,14,$532
+8/29/23,healthyfeet.com,Adidas,1690,103,9,$387
+8/29/23,healthyfeet.com,New Balance,1579,102,6,$180
+8/29/23,healthyfeet.com,Asics,1457,61,4,$92
+8/29/23,healthyfeet.com,Altra,1413,89,8,$176
+8/30/23,healthyfeet.com,Hoka,5229,478,35,"$2,625"
+8/30/23,healthyfeet.com,Brooks,4519,427,47,"$1,551"
+8/30/23,healthyfeet.com,Saucony,4355,411,41,"$2,050"
+8/30/23,healthyfeet.com,On Cloud,3999,415,40,"$2,200"
+8/30/23,healthyfeet.com,Nike,2433,189,21,"$1,239"
+8/30/23,healthyfeet.com,Reebok,2375,121,8,$216
+8/30/23,healthyfeet.com,Adidas,1814,101,9,$180
+8/30/23,healthyfeet.com,New Balance,1580,117,10,$300
+8/30/23,healthyfeet.com,Asics,1499,99,7,$140
+8/30/23,healthyfeet.com,Altra,1432,91,7,$224
+8/31/23,healthyfeet.com,Hoka,5298,603,54,"$3,564"
+8/31/23,healthyfeet.com,Brooks,4281,466,53,"$1,431"
+8/31/23,healthyfeet.com,Saucony,4150,285,29,"$1,218"
+8/31/23,healthyfeet.com,On Cloud,3369,295,28,"$1,540"
+8/31/23,healthyfeet.com,Reebok,2268,112,9,$432
+8/31/23,healthyfeet.com,Nike,1734,118,13,$585
+8/31/23,healthyfeet.com,Adidas,1697,142,10,$160
+8/31/23,healthyfeet.com,New Balance,1542,103,7,$210
+8/31/23,healthyfeet.com,Asics,1443,87,7,$231
+8/31/23,healthyfeet.com,Altra,1340,86,7,$217
