@@ -2,17 +2,17 @@
 
 This is a very light-weight Data Warehouse using the Datavault methodology utilizing just Postgres, Pandas, and SQLAlchemy.
 
-1. Setup the correct database by using docker compose up in the current directory
-2. PIP INSTALL the requirements using python3
+1. Setup the correct database by using **docker compose up** in the current directory
+2. **PIP INSTALL** the requirements using **python3**
 3. Execute the init.sql
-4. Simple run python3 master_run.py and the data pipeline will run in seconds
+4. Simply run **python3 master_run.py** in the ETL folder and the data pipeline will run in seconds
 
-If you would like to learn more about the DataVault methodology please read data_warehouse_method.txt.
+If you would like to learn more about the DataVault methodology please read **data_warehouse_method.txt**.
 
 This database has rerun-ability, as well as updating records should any of them change, with error handling should anything arise during the staging/standardizing steps. 
 
 Directory Tree:
-
+```
 │   data_warehouse_method.txt
 │   Dockerfile
 │   master_run.py
@@ -55,3 +55,4 @@ Directory Tree:
     │   chars.py
     │   db.py
     │   __init__.py
+```
