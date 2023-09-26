@@ -4,7 +4,7 @@ This is a very light-weight Data Warehouse using the Datavault methodology utili
 
 1. Setup the correct database by using **docker compose up** in the current directory
 2. **PIP INSTALL** the requirements using **python3**
-3. Execute the init.sql
+3. Execute the **init.sql**
 4. Simply run **python3 master_run.py** in the ETL folder and the data pipeline will run in seconds
 
 If you would like to learn more about the DataVault methodology please read **data_warehouse_method.txt**.
